@@ -1,0 +1,84 @@
+{
+  "game": "Jet Lag: Hide and Seek",
+  "size": "medium",
+  "totalQuestions": 71,
+  "categories": [
+    {
+      "id": "matching",
+      "name": "Matching",
+      "prompt": "Is your nearest {X} the same as my nearest {X}?",
+      "answers": ["yes", "no"],
+      "timeLimitMin": 5,
+      "cards": { "draw": 3, "keep": 1 },
+      "questions": [
+        "Commercial Airport", "Transit Line", "Station Name Length", "Street or Path",
+        "1st Administrative Division", "2nd Administrative Division", "3rd Administrative Division", "4th Administrative Division",
+        "Mountain", "Landmass", "Park",
+        "Amusement Park", "Zoo", "Aquarium", "Golf Course", "Museum", "Movie Theater",
+        "Hospital", "Library", "Foreign Consulate"
+      ]
+    },
+    {
+      "id": "measuring",
+      "name": "Measuring",
+      "prompt": "Compared to me, are you closer to or further from {X}?",
+      "answers": ["closer", "further"],
+      "timeLimitMin": 5,
+      "cards": { "draw": 3, "keep": 1 },
+      "questions": [
+        "Commercial Airport", "High-Speed Train Line", "Rail Station",
+        "International Border", "1st Administrative Division Border", "2nd Administrative Division Border",
+        "Sea Level", "Body of Water", "Coastline", "Mountain", "Park",
+        "Amusement Park", "Zoo", "Aquarium", "Golf Course", "Museum", "Movie Theater",
+        "Hospital", "Library", "Foreign Consulate"
+      ]
+    },
+    {
+      "id": "radar",
+      "name": "Radar",
+      "prompt": "Are you within {X} of me?",
+      "answers": ["yes", "no"],
+      "timeLimitMin": 5,
+      "cards": { "draw": 2, "keep": 1 },
+      "questions": [
+        "1/4 Mile", "1/2 Mile", "1 Mile", "3 Miles", "5 Miles",
+        "10 Miles", "25 Miles", "50 Miles", "100 Miles", "Choose"
+      ]
+    },
+    {
+      "id": "thermometer",
+      "name": "Thermometer",
+      "prompt": "After traveling {X}, am I hotter or colder?",
+      "answers": ["hotter", "colder"],
+      "timeLimitMin": 5,
+      "cards": { "draw": 2, "keep": 1 },
+      "questions": ["1/2 Mile", "3 Miles", "10 Miles"]
+    },
+    {
+      "id": "photos",
+      "name": "Photos",
+      "prompt": "Send me a photo of {X}.",
+      "answers": ["photo", "cannot answer"],
+      "timeLimitMin": 10,
+      "cards": { "draw": 1, "keep": 1 },
+      "questions": [
+        "Any Building Visible from Transit Station", "Widest Street", "Tree",
+        "Tallest Structure in Your Current Sightline", "You (Selfie)", "The Sky",
+        "Tallest Building Visible from Transit Station", "Trace Nearest Street/Path",
+        "2 Buildings", "Restaurant Interior", "Park", "Grocery Store Aisle",
+        "Place of Worship", "Train Platform"
+      ]
+    },
+    {
+      "id": "tentacles",
+      "name": "Tentacles",
+      "prompt": "Within {radius} of me, which {X} are you nearest to? (You must also be within {radius})",
+      "answers": ["location name", "out of reach"],
+      "timeLimitMin": 5,
+      "cards": { "draw": 4, "keep": 2 },
+      "questions": [
+        "Museums (1 mi)", "Libraries (1 mi)", "Movie Theaters (1 mi)", "Hospitals (1 mi)"
+      ]
+    }
+  ]
+}

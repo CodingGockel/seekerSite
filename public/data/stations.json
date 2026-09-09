@@ -1,0 +1,9824 @@
+{
+  "version": 2,
+  "generatedAt": "2026-09-04",
+  "source": "data/artt_verstecke.geojson (kuratierte ARTT-Versteckliste)",
+  "stations": [
+    {
+      "id": "a-j-ernststraat",
+      "name": "A.J. Ernststraat",
+      "aliases": [],
+      "lat": 52.33217,
+      "lon": 4.86925,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "6",
+          "25"
+        ],
+        "bus": [
+          "461",
+          "463",
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "aalsmeer-aalsmeer-busstation",
+      "name": "Aalsmeer, Aalsmeer Busstation",
+      "aliases": [],
+      "lat": 52.25874,
+      "lon": 4.76868,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "171",
+          "257",
+          "340",
+          "357",
+          "N57"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "aalsmeer-aalsmeer-midden",
+      "name": "Aalsmeer, Aalsmeer Midden",
+      "aliases": [],
+      "lat": 52.26311,
+      "lon": 4.76018,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "aalsmeer-aalsmeer-west-centrum",
+      "name": "Aalsmeer, Aalsmeer West/Centrum",
+      "aliases": [],
+      "lat": 52.26954,
+      "lon": 4.75412,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "aalsmeer-floraholland",
+      "name": "Aalsmeer, FloraHolland",
+      "aliases": [],
+      "lat": 52.25846,
+      "lon": 4.7887,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "357",
+          "N57"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "abberdaan",
+      "name": "Abberdaan",
+      "aliases": [],
+      "lat": 52.3918,
+      "lon": 4.78088,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "231"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "abcoude",
+      "name": "Abcoude",
+      "aliases": [],
+      "lat": 52.2793,
+      "lon": 4.97654,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "120",
+          "M",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "aerdenhout-spechtlaan",
+      "name": "Aerdenhout, Spechtlaan",
+      "aliases": [],
+      "lat": 52.36483,
+      "lon": 4.57896,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "aerdenhout-viersprong",
+      "name": "Aerdenhout, Viersprong",
+      "aliases": [],
+      "lat": 52.36107,
+      "lon": 4.59711,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "alkmaar",
+      "name": "Alkmaar",
+      "aliases": [],
+      "lat": 52.63798,
+      "lon": 4.74023,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "2",
+          "4",
+          "5",
+          "6",
+          "8",
+          "9",
+          "10",
+          "123",
+          "129",
+          "151",
+          "157",
+          "160",
+          "162",
+          "163",
+          "165",
+          "166",
+          "167",
+          "169",
+          "251",
+          "260",
+          "269",
+          "350",
+          "606",
+          "N50",
+          "N60",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "alkmaar-noord",
+      "name": "Alkmaar Noord",
+      "aliases": [],
+      "lat": 52.64377,
+      "lon": 4.76416,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "4",
+          "N50",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-buiten",
+      "name": "Almere Buiten",
+      "aliases": [],
+      "lat": 52.39391,
+      "lon": 5.2781,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Eurocity Direct",
+          "Intercity direct",
+          "Sprinter"
+        ],
+        "bus": [
+          "22",
+          "330",
+          "M2",
+          "M7",
+          "N22",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-buiten-faunabuurt",
+      "name": "Almere Buiten, Faunabuurt",
+      "aliases": [],
+      "lat": 52.38546,
+      "lon": 5.27264,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "330",
+          "M7",
+          "N22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-centrum",
+      "name": "Almere Centrum",
+      "aliases": [],
+      "lat": 52.37522,
+      "lon": 5.21768,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Eurocity Direct",
+          "Intercity",
+          "Intercity direct",
+          "Nachttrein",
+          "Sprinter"
+        ],
+        "bus": [
+          "150",
+          "216",
+          "326",
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7",
+          "M8",
+          "N22",
+          "N23",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-hout-de-kemphaan",
+      "name": "Almere Hout, De Kemphaan",
+      "aliases": [],
+      "lat": 52.34218,
+      "lon": 5.26449,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "216",
+          "326"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-hout-stichtse-brug",
+      "name": "Almere Hout, Stichtse Brug",
+      "aliases": [],
+      "lat": 52.31542,
+      "lon": 5.32955,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-hout-stichtsekant",
+      "name": "Almere Hout, Stichtsekant",
+      "aliases": [],
+      "lat": 52.32144,
+      "lon": 5.314,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-hout-vogelweg",
+      "name": "Almere Hout, Vogelweg",
+      "aliases": [],
+      "lat": 52.32884,
+      "lon": 5.29399,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "216",
+          "326"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-muziekwijk",
+      "name": "Almere Muziekwijk",
+      "aliases": [],
+      "lat": 52.36762,
+      "lon": 5.19082,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "M3",
+          "M4",
+          "N22",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-oostvaarders",
+      "name": "Almere Oostvaarders",
+      "aliases": [],
+      "lat": 52.40301,
+      "lon": 5.3006,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "M2",
+          "M7",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-parkwijk",
+      "name": "Almere Parkwijk",
+      "aliases": [],
+      "lat": 52.37668,
+      "lon": 5.24487,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "M5",
+          "M7",
+          "M8",
+          "N22",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-poort",
+      "name": "Almere Poort",
+      "aliases": [],
+      "lat": 52.34305,
+      "lon": 5.15283,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "24",
+          "329",
+          "M4",
+          "N22",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-busstation-t-oor",
+      "name": "Almere Stad, Busstation 't Oor",
+      "aliases": [],
+      "lat": 52.35414,
+      "lon": 5.21175,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326",
+          "329",
+          "330",
+          "M1",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-danswijk",
+      "name": "Almere Stad, Danswijk",
+      "aliases": [],
+      "lat": 52.364,
+      "lon": 5.25701,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "330",
+          "M5",
+          "N22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-greta-garboplantsoen",
+      "name": "Almere Stad, Greta Garboplantsoen",
+      "aliases": [],
+      "lat": 52.37173,
+      "lon": 5.23106,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "216",
+          "M5",
+          "M7",
+          "M8",
+          "N22",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-hortus",
+      "name": "Almere Stad, Hortus",
+      "aliases": [],
+      "lat": 52.35573,
+      "lon": 5.22378,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326",
+          "330",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-kasteel",
+      "name": "Almere Stad, Kasteel",
+      "aliases": [],
+      "lat": 52.35402,
+      "lon": 5.24396,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326",
+          "330",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-romy-schneiderweg",
+      "name": "Almere Stad, Romy Schneiderweg",
+      "aliases": [],
+      "lat": 52.36727,
+      "lon": 5.23818,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "216",
+          "M5",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-sallandsekant",
+      "name": "Almere Stad, Sallandsekant",
+      "aliases": [],
+      "lat": 52.36749,
+      "lon": 5.27026,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "330",
+          "M8",
+          "N22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-stedenwijk-midden",
+      "name": "Almere Stad, Stedenwijk Midden",
+      "aliases": [],
+      "lat": 52.36599,
+      "lon": 5.20932,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326",
+          "M1",
+          "M4"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-stedenwijk-zuid",
+      "name": "Almere Stad, Stedenwijk Zuid",
+      "aliases": [],
+      "lat": 52.3598,
+      "lon": 5.2063,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "150",
+          "326",
+          "M1"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-tussen-de-vaarten-mi",
+      "name": "Almere Stad, Tussen de Vaarten-Mi",
+      "aliases": [],
+      "lat": 52.37599,
+      "lon": 5.2605,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "330",
+          "M8",
+          "N22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-tussen-de-vaarten-n",
+      "name": "Almere Stad, Tussen de Vaarten-N.",
+      "aliases": [],
+      "lat": 52.3836,
+      "lon": 5.2533,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "330",
+          "M7",
+          "M8",
+          "N22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "almere-stad-walt-disneyplantsoen",
+      "name": "Almere Stad, Walt Disneyplantsoen",
+      "aliases": [],
+      "lat": 52.36029,
+      "lon": 5.24501,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "216",
+          "330",
+          "M5",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amstelveen-amstelveen-busstation",
+      "name": "Amstelveen, Amstelveen Busstation",
+      "aliases": [],
+      "lat": 52.30242,
+      "lon": 4.85801,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "149",
+          "171",
+          "174",
+          "178",
+          "186",
+          "199",
+          "257",
+          "300",
+          "356",
+          "357",
+          "N30",
+          "N47",
+          "N57",
+          "N84",
+          "OVoM"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amstelveen-kruiskerk",
+      "name": "Amstelveen, Kruiskerk",
+      "aliases": [],
+      "lat": 52.31129,
+      "lon": 4.85682,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "178",
+          "257",
+          "357",
+          "N47",
+          "N57"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amstelveen-langerhuize",
+      "name": "Amstelveen, Langerhuize",
+      "aliases": [],
+      "lat": 52.29507,
+      "lon": 4.87832,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "356"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amstelveen-nieuw-oosteinde",
+      "name": "Amstelveen, Nieuw Oosteinde",
+      "aliases": [],
+      "lat": 52.27607,
+      "lon": 4.80965,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "257",
+          "357",
+          "N57"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amstelveenseweg",
+      "name": "Amstelveenseweg",
+      "aliases": [],
+      "lat": 52.33832,
+      "lon": 4.85746,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "24"
+        ],
+        "bus": [
+          "198",
+          "244",
+          "257",
+          "346",
+          "357",
+          "397",
+          "N47",
+          "N57",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-amstel",
+      "name": "Amsterdam Amstel",
+      "aliases": [
+        "Amstelstation"
+      ],
+      "lat": 52.34648,
+      "lon": 4.91809,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "metro": [
+          "51",
+          "53",
+          "54"
+        ],
+        "tram": [
+          "12"
+        ],
+        "bus": [
+          "37",
+          "40",
+          "41",
+          "62",
+          "65",
+          "245",
+          "320",
+          "329",
+          "N22",
+          "N85",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-bijlmer-arena",
+      "name": "Amsterdam Bijlmer ArenA",
+      "aliases": [
+        "Station Bijlmer ArenA"
+      ],
+      "lat": 52.31219,
+      "lon": 4.94706,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "European Sleeper",
+          "Intercity",
+          "Nachttrein",
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "54"
+        ],
+        "bus": [
+          "44",
+          "47",
+          "49",
+          "66",
+          "120",
+          "171",
+          "200",
+          "255",
+          "271",
+          "276",
+          "300",
+          "326",
+          "330",
+          "356",
+          "360",
+          "370",
+          "N26",
+          "N30",
+          "N85",
+          "N87",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-centraal",
+      "name": "Amsterdam Centraal",
+      "aliases": [
+        "Centraal Station"
+      ],
+      "lat": 52.37897,
+      "lon": 4.90042,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Eurocity Direct",
+          "European Sleeper",
+          "Eurostar",
+          "GoVolta",
+          "ICE",
+          "Intercity",
+          "Intercity direct",
+          "Nachttrein",
+          "Nightjet",
+          "Sprinter"
+        ],
+        "metro": [
+          "51",
+          "52",
+          "53",
+          "54"
+        ],
+        "tram": [
+          "2",
+          "4",
+          "14",
+          "17",
+          "24",
+          "26"
+        ],
+        "bus": [
+          "18",
+          "21",
+          "22",
+          "42",
+          "43",
+          "48",
+          "305",
+          "314",
+          "316",
+          "391",
+          "800",
+          "N06",
+          "N07",
+          "N11",
+          "N14",
+          "N19",
+          "N23",
+          "N47",
+          "N57",
+          "N81",
+          "N82",
+          "N83",
+          "N84",
+          "N85",
+          "N87",
+          "N88",
+          "N89",
+          "N91",
+          "N93",
+          "N94",
+          "N97",
+          "Snelbus ipv trein",
+          "Stopbus ipv trein"
+        ],
+        "ferry": [
+          "F2",
+          "F3",
+          "F4"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-holendrecht",
+      "name": "Amsterdam Holendrecht",
+      "aliases": [
+        "Station Holendrecht"
+      ],
+      "lat": 52.29796,
+      "lon": 4.95973,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "54"
+        ],
+        "bus": [
+          "41",
+          "47",
+          "276",
+          "370",
+          "N85",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-lelylaan",
+      "name": "Amsterdam Lelylaan",
+      "aliases": [
+        "Station Lelylaan"
+      ],
+      "lat": 52.3576,
+      "lon": 4.83423,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "1",
+          "17",
+          "27",
+          "28"
+        ],
+        "bus": [
+          "18",
+          "62",
+          "63",
+          "195"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-muiderpoort",
+      "name": "Amsterdam Muiderpoort",
+      "aliases": [],
+      "lat": 52.36098,
+      "lon": 4.93173,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "tram": [
+          "7",
+          "14",
+          "19",
+          "25"
+        ],
+        "bus": [
+          "37",
+          "40",
+          "245",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-rai",
+      "name": "Amsterdam RAI",
+      "aliases": [
+        "Station RAI"
+      ],
+      "lat": 52.33707,
+      "lon": 4.89025,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "4"
+        ],
+        "bus": [
+          "62",
+          "72",
+          "221",
+          "321",
+          "464",
+          "N84"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-science-park",
+      "name": "Amsterdam Science Park",
+      "aliases": [],
+      "lat": 52.35254,
+      "lon": 4.94885,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "40",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-sloterdijk",
+      "name": "Amsterdam Sloterdijk",
+      "aliases": [
+        "Station Sloterdijk"
+      ],
+      "lat": 52.38896,
+      "lon": 4.83783,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "19"
+        ],
+        "bus": [
+          "15",
+          "22",
+          "36",
+          "61",
+          "103",
+          "231",
+          "233",
+          "272",
+          "273",
+          "369",
+          "382",
+          "395",
+          "N81",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-zuid",
+      "name": "Amsterdam Zuid",
+      "aliases": [
+        "Station Zuid"
+      ],
+      "lat": 52.33936,
+      "lon": 4.87309,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Eurocity Direct",
+          "Intercity",
+          "Intercity direct",
+          "Nachttrein",
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "51",
+          "52"
+        ],
+        "tram": [
+          "5",
+          "6",
+          "25"
+        ],
+        "bus": [
+          "15",
+          "62",
+          "72",
+          "178",
+          "198",
+          "221",
+          "244",
+          "321",
+          "346",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-dortmuiden",
+      "name": "Amsterdam, Dortmuiden",
+      "aliases": [],
+      "lat": 52.39775,
+      "lon": 4.7789,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-emmastraat",
+      "name": "Amsterdam, Emmastraat",
+      "aliases": [],
+      "lat": 52.35284,
+      "lon": 4.86955,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "357",
+          "397",
+          "N47",
+          "N57",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-hornhaven",
+      "name": "Amsterdam, Hornhaven",
+      "aliases": [],
+      "lat": 52.39485,
+      "lon": 4.80785,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "231",
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-kaapstadweg",
+      "name": "Amsterdam, Kaapstadweg",
+      "aliases": [],
+      "lat": 52.41166,
+      "lon": 4.74011,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-kalfjeslaan",
+      "name": "Amsterdam, Kalfjeslaan",
+      "aliases": [],
+      "lat": 52.32233,
+      "lon": 4.85752,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "30"
+        ],
+        "bus": [
+          "178",
+          "257",
+          "357",
+          "N47",
+          "N57"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-keerkringpark",
+      "name": "Amsterdam, Keerkringpark",
+      "aliases": [],
+      "lat": 52.41303,
+      "lon": 4.87977,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "391",
+          "394",
+          "N94"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-langsom",
+      "name": "Amsterdam, Langsom",
+      "aliases": [],
+      "lat": 52.34166,
+      "lon": 4.79324,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "195"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-ruigoord-dorp",
+      "name": "Amsterdam, Ruigoord Dorp",
+      "aliases": [],
+      "lat": 52.40731,
+      "lon": 4.75114,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-sportpark-sloten",
+      "name": "Amsterdam, Sportpark Sloten",
+      "aliases": [],
+      "lat": 52.34135,
+      "lon": 4.80747,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "195"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "amsterdam-westpoortweg",
+      "name": "Amsterdam, Westpoortweg",
+      "aliases": [],
+      "lat": 52.39775,
+      "lon": 4.79436,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "231",
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "anderlechtlaan",
+      "name": "Anderlechtlaan",
+      "aliases": [],
+      "lat": 52.33554,
+      "lon": 4.81439,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "198",
+          "218",
+          "245",
+          "247",
+          "369",
+          "397",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "anton-de-komplein",
+      "name": "Anton de Komplein",
+      "aliases": [],
+      "lat": 52.31628,
+      "lon": 4.95505,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "41",
+          "47",
+          "66",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "antwerpenbaan",
+      "name": "Antwerpenbaan",
+      "aliases": [],
+      "lat": 52.34595,
+      "lon": 4.81608,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "2"
+        ],
+        "bus": [
+          "195",
+          "247",
+          "369",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "appelweg",
+      "name": "Appelweg",
+      "aliases": [],
+      "lat": 52.41568,
+      "lon": 4.89551,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "assendelft",
+      "name": "Assendelft",
+      "aliases": [],
+      "lat": 52.43475,
+      "lon": 4.72487,
+      "mode": "ferry",
+      "lines": {
+        "bus": [
+          "65",
+          "456"
+        ],
+        "ferry": [
+          "F21"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "assendelft-vuurlinie",
+      "name": "Assendelft, Vuurlinie",
+      "aliases": [],
+      "lat": 52.45199,
+      "lon": 4.68478,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "azartplein",
+      "name": "Azartplein",
+      "aliases": [],
+      "lat": 52.37705,
+      "lon": 4.93741,
+      "mode": "ferry",
+      "lines": {
+        "tram": [
+          "1"
+        ],
+        "bus": [
+          "65"
+        ],
+        "ferry": [
+          "F1"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "baden-powellweg-tram",
+      "name": "Baden Powellweg",
+      "aliases": [],
+      "lat": 52.35648,
+      "lon": 4.79155,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "17",
+          "27"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "baden-powellweg-bus",
+      "name": "Baden Powellweg",
+      "aliases": [],
+      "lat": 52.36238,
+      "lon": 4.78777,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "63"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "badhoevedorp-badhoevedorp-oost",
+      "name": "Badhoevedorp, Badhoevedorp Oost",
+      "aliases": [],
+      "lat": 52.3319,
+      "lon": 4.77873,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "194",
+          "195",
+          "356",
+          "645"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "badhoevedorp-badhoevedorp-west",
+      "name": "Badhoevedorp, Badhoevedorp West",
+      "aliases": [],
+      "lat": 52.34109,
+      "lon": 4.7615,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "194",
+          "356",
+          "645"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "badhoevedorp-havikstraat",
+      "name": "Badhoevedorp, Havikstraat",
+      "aliases": [],
+      "lat": 52.33794,
+      "lon": 4.7832,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "195"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "barkpad",
+      "name": "Barkpad",
+      "aliases": [],
+      "lat": 52.40265,
+      "lon": 4.91161,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "34",
+          "39",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "beets-beets-n247",
+      "name": "Beets, Beets (N247)",
+      "aliases": [],
+      "lat": 52.59198,
+      "lon": 5.00014,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "413",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "beverwijk",
+      "name": "Beverwijk",
+      "aliases": [],
+      "lat": 52.47846,
+      "lon": 4.65613,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "65",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "78",
+          "244",
+          "572",
+          "N80",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "beverwijk-beveland",
+      "name": "Beverwijk, Beveland",
+      "aliases": [],
+      "lat": 52.46746,
+      "lon": 4.66898,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "beverwijk-randweg",
+      "name": "Beverwijk, Randweg",
+      "aliases": [],
+      "lat": 52.47442,
+      "lon": 4.67084,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65",
+          "72",
+          "76"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "blaricum-blaricum-p-r",
+      "name": "Blaricum, Blaricum P+R",
+      "aliases": [],
+      "lat": 52.28302,
+      "lon": 5.27113,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "108",
+          "200",
+          "320",
+          "326",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bloemendaal",
+      "name": "Bloemendaal",
+      "aliases": [],
+      "lat": 52.40407,
+      "lon": 4.6274,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "481",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bloemendaal-camping-bloemendaal",
+      "name": "Bloemendaal, Camping Bloemendaal",
+      "aliases": [],
+      "lat": 52.40141,
+      "lon": 4.55817,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bloemendaal-de-bokkedoorns",
+      "name": "Bloemendaal, De Bokkedoorns",
+      "aliases": [],
+      "lat": 52.39873,
+      "lon": 4.56871,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bloemendaal-kennemerduinen",
+      "name": "Bloemendaal, Kennemerduinen",
+      "aliases": [],
+      "lat": 52.39456,
+      "lon": 4.59374,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bloemendaal-strand",
+      "name": "Bloemendaal, Strand",
+      "aliases": [],
+      "lat": 52.40119,
+      "lon": 4.54432,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bob-haarmslaan",
+      "name": "Bob Haarmslaan",
+      "aliases": [],
+      "lat": 52.36941,
+      "lon": 4.96837,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "26"
+        ],
+        "bus": [
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bos-en-lommerweg",
+      "name": "Bos en Lommerweg",
+      "aliases": [],
+      "lat": 52.38065,
+      "lon": 4.85455,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "19"
+        ],
+        "bus": [
+          "21",
+          "80",
+          "247",
+          "N80",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "breukelen",
+      "name": "Breukelen",
+      "aliases": [],
+      "lat": 52.17058,
+      "lon": 4.99089,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "111",
+          "120",
+          "330",
+          "523",
+          "524",
+          "526",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "brinkstraat",
+      "name": "Brinkstraat",
+      "aliases": [],
+      "lat": 52.34305,
+      "lon": 4.9477,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "29"
+        ],
+        "bus": [
+          "320",
+          "329",
+          "N22",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "broek-in-waterland-broek-in-waterland",
+      "name": "Broek in Waterland, Broek in Waterland",
+      "aliases": [],
+      "lat": 52.43379,
+      "lon": 4.99778,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "111",
+          "112",
+          "273",
+          "314",
+          "315",
+          "316",
+          "419",
+          "N11",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "broek-in-waterland-kruisweg",
+      "name": "Broek in Waterland, Kruisweg",
+      "aliases": [],
+      "lat": 52.42429,
+      "lon": 4.97607,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "111",
+          "112",
+          "N11",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "buiksloterweg",
+      "name": "Buiksloterweg",
+      "aliases": [],
+      "lat": 52.38216,
+      "lon": 4.90299,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F3"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "buiten-brouwersstraat",
+      "name": "Buiten Brouwersstraat",
+      "aliases": [],
+      "lat": 52.38159,
+      "lon": 4.89143,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "18",
+          "21",
+          "22",
+          "N81",
+          "N82",
+          "N83",
+          "N84",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "buiteneilandlaan",
+      "name": "Buiteneilandlaan",
+      "aliases": [],
+      "lat": 52.3557,
+      "lon": 5.01852,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "26"
+        ],
+        "bus": [
+          "49",
+          "360",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bullewijk",
+      "name": "Bullewijk",
+      "aliases": [],
+      "lat": 52.30667,
+      "lon": 4.9522,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "54"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "burg-de-vlugtlaan",
+      "name": "Burg. De Vlugtlaan",
+      "aliases": [],
+      "lat": 52.37932,
+      "lon": 4.83792,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "7"
+        ],
+        "bus": [
+          "21",
+          "80",
+          "247",
+          "N80",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "burg-van-leeuwenlaan",
+      "name": "Burg. Van Leeuwenlaan",
+      "aliases": [],
+      "lat": 52.37635,
+      "lon": 4.81229,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "13"
+        ],
+        "bus": [
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bussum-zuid",
+      "name": "Bussum Zuid",
+      "aliases": [],
+      "lat": 52.26608,
+      "lon": 5.16321,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "109",
+          "N32",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bussum-dr-a-kuyperlaan",
+      "name": "Bussum, Dr. A. Kuyperlaan",
+      "aliases": [],
+      "lat": 52.26846,
+      "lon": 5.17798,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bussum-goudenregenstraat",
+      "name": "Bussum, Goudenregenstraat",
+      "aliases": [],
+      "lat": 52.27195,
+      "lon": 5.18725,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bussum-havenstraat",
+      "name": "Bussum, Havenstraat",
+      "aliases": [],
+      "lat": 52.27447,
+      "lon": 5.16596,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "107",
+          "109"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "bussum-huizerweg",
+      "name": "Bussum, Huizerweg",
+      "aliases": [],
+      "lat": 52.27791,
+      "lon": 5.1845,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "107",
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "c-j-van-houtenlaan",
+      "name": "C.J. van Houtenlaan",
+      "aliases": [],
+      "lat": 52.30379,
+      "lon": 5.03701,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49",
+          "106",
+          "522"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "castricum",
+      "name": "Castricum",
+      "aliases": [],
+      "lat": 52.54579,
+      "lon": 4.65891,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "73",
+          "164",
+          "167",
+          "OVoM",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "concertgebouw",
+      "name": "Concertgebouw",
+      "aliases": [],
+      "lat": 52.35664,
+      "lon": 4.87958,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "12",
+          "24"
+        ],
+        "bus": [
+          "357",
+          "397",
+          "N47",
+          "N57",
+          "N84",
+          "N88",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "cruquius-cruquiusbrug",
+      "name": "Cruquius, Cruquiusbrug",
+      "aliases": [],
+      "lat": 52.3373,
+      "lon": 4.63696,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "cruquius-spieringweg",
+      "name": "Cruquius, Spieringweg",
+      "aliases": [],
+      "lat": 52.32977,
+      "lon": 4.64802,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340",
+          "401"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "czaar-peterstraat",
+      "name": "Czaar Peterstraat",
+      "aliases": [],
+      "lat": 52.36919,
+      "lon": 4.92796,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "de-pijp",
+      "name": "De Pijp",
+      "aliases": [],
+      "lat": 52.35291,
+      "lon": 4.89064,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "52"
+        ],
+        "tram": [
+          "12",
+          "25"
+        ],
+        "bus": [
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "de-rijp-wollandje",
+      "name": "De Rijp, Wollandje",
+      "aliases": [],
+      "lat": 52.55973,
+      "lon": 4.84327,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "123",
+          "305",
+          "416",
+          "523"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "diemen",
+      "name": "Diemen",
+      "aliases": [],
+      "lat": 52.34532,
+      "lon": 4.9671,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "44",
+          "N87",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "diemen-noord",
+      "name": "Diemen Noord",
+      "aliases": [],
+      "lat": 52.34697,
+      "lon": 4.98591,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "44"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "diemen-zuid",
+      "name": "Diemen Zuid",
+      "aliases": [
+        "Station Diemen Zuid"
+      ],
+      "lat": 52.33039,
+      "lon": 4.95552,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "53"
+        ],
+        "bus": [
+          "44",
+          "N87"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "diemen-diemerknoop",
+      "name": "Diemen, Diemerknoop",
+      "aliases": [],
+      "lat": 52.33544,
+      "lon": 5.00295,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "66",
+          "221",
+          "320",
+          "321",
+          "329",
+          "330",
+          "360"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "diemen-stammerkamp",
+      "name": "Diemen, Stammerkamp",
+      "aliases": [],
+      "lat": 52.33324,
+      "lon": 4.98315,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "66",
+          "276",
+          "330"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "diemerbrug",
+      "name": "Diemerbrug",
+      "aliases": [],
+      "lat": 52.33831,
+      "lon": 4.96121,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "29"
+        ],
+        "bus": [
+          "44",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "dijkmanshuizenstraat",
+      "name": "Dijkmanshuizenstraat",
+      "aliases": [],
+      "lat": 52.39588,
+      "lon": 4.95458,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "37",
+          "245",
+          "N91"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "distelweg",
+      "name": "Distelweg",
+      "aliases": [],
+      "lat": 52.395,
+      "lon": 4.89934,
+      "mode": "ferry",
+      "lines": {
+        "bus": [
+          "38"
+        ],
+        "ferry": [
+          "F6"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "driehuis",
+      "name": "Driehuis",
+      "aliases": [],
+      "lat": 52.44344,
+      "lon": 4.63889,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "3",
+          "N30",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "duivendrecht",
+      "name": "Duivendrecht",
+      "aliases": [
+        "Station Duivendrecht"
+      ],
+      "lat": 52.32341,
+      "lon": 4.93641,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Intercity direct",
+          "Sprinter"
+        ],
+        "metro": [
+          "50",
+          "54"
+        ],
+        "bus": [
+          "41",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ecuplein",
+      "name": "Ecuplein",
+      "aliases": [],
+      "lat": 52.34959,
+      "lon": 4.78805,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "28"
+        ],
+        "bus": [
+          "N83"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "edam-busstation-edam",
+      "name": "Edam, Busstation Edam",
+      "aliases": [],
+      "lat": 52.5101,
+      "lon": 5.04454,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "110",
+          "112",
+          "273",
+          "314",
+          "316",
+          "614",
+          "801",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "edam-ije",
+      "name": "Edam, IJe",
+      "aliases": [],
+      "lat": 52.50604,
+      "lon": 5.05255,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "112",
+          "273",
+          "316",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "edam-tjaskermolen",
+      "name": "Edam, Tjaskermolen",
+      "aliases": [],
+      "lat": 52.50893,
+      "lon": 5.06609,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "316",
+          "614"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "eemnes-bel-kantoor",
+      "name": "Eemnes, BEL kantoor",
+      "aliases": [],
+      "lat": 52.24793,
+      "lon": 5.25083,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109",
+          "573"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "eemnes-braadkamp",
+      "name": "Eemnes, Braadkamp",
+      "aliases": [],
+      "lat": 52.25244,
+      "lon": 5.26302,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109",
+          "573"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "eemnes-eemnes-laren-p-r-west",
+      "name": "Eemnes, Eemnes/Laren P+R (West)",
+      "aliases": [],
+      "lat": 52.25308,
+      "lon": 5.24601,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "109",
+          "200",
+          "320",
+          "321",
+          "573"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "eemnes-zomertaling",
+      "name": "Eemnes, Zomertaling",
+      "aliases": [],
+      "lat": 52.25998,
+      "lon": 5.26115,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "elandsgracht",
+      "name": "Elandsgracht",
+      "aliases": [],
+      "lat": 52.36878,
+      "lon": 4.8776,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "7",
+          "13",
+          "19"
+        ],
+        "bus": [
+          "80",
+          "357",
+          "397",
+          "N47",
+          "N57",
+          "N80",
+          "N84",
+          "N88",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "erasmusgracht",
+      "name": "Erasmusgracht",
+      "aliases": [],
+      "lat": 52.37644,
+      "lon": 4.84691,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "7"
+        ],
+        "bus": [
+          "15",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "europaplein",
+      "name": "Europaplein",
+      "aliases": [],
+      "lat": 52.3407,
+      "lon": 4.89188,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "52"
+        ],
+        "tram": [
+          "4"
+        ],
+        "bus": [
+          "62",
+          "72",
+          "245",
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "frederik-hendrikplnts",
+      "name": "Frederik Hendrikplnts",
+      "aliases": [],
+      "lat": 52.37865,
+      "lon": 4.87513,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "12"
+        ],
+        "bus": [
+          "18",
+          "21",
+          "N82",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "gaasp",
+      "name": "Gaasp",
+      "aliases": [],
+      "lat": 52.31459,
+      "lon": 4.99255,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "gaasperplas",
+      "name": "Gaasperplas",
+      "aliases": [],
+      "lat": 52.31116,
+      "lon": 4.98471,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "53"
+        ],
+        "bus": [
+          "47",
+          "200",
+          "271",
+          "300",
+          "360",
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ganzenhoef",
+      "name": "Ganzenhoef",
+      "aliases": [],
+      "lat": 52.32315,
+      "lon": 4.97344,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "53"
+        ],
+        "bus": [
+          "47",
+          "66",
+          "200",
+          "271",
+          "300",
+          "360",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "gein",
+      "name": "Gein",
+      "aliases": [],
+      "lat": 52.29635,
+      "lon": 4.98895,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "54"
+        ],
+        "bus": [
+          "47",
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "geinbrug",
+      "name": "Geinbrug",
+      "aliases": [],
+      "lat": 52.30445,
+      "lon": 5.01295,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "gelderlandplein-oost",
+      "name": "Gelderlandplein Oost",
+      "aliases": [],
+      "lat": 52.33086,
+      "lon": 4.87948,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "62",
+          "461",
+          "463",
+          "464",
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "gerrit-van-der-veenstr",
+      "name": "Gerrit van der Veenstr",
+      "aliases": [],
+      "lat": 52.34904,
+      "lon": 4.87728,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "24",
+          "25"
+        ],
+        "bus": [
+          "N84",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "grasweg",
+      "name": "Grasweg",
+      "aliases": [],
+      "lat": 52.38842,
+      "lon": 4.90504,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "38"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem",
+      "name": "Haarlem",
+      "aliases": [],
+      "lat": 52.388,
+      "lon": 4.63826,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "2",
+          "3",
+          "7",
+          "8",
+          "14",
+          "15",
+          "73",
+          "81",
+          "84",
+          "244",
+          "250",
+          "255",
+          "300",
+          "340",
+          "346",
+          "356",
+          "385",
+          "568",
+          "569",
+          "N30",
+          "N80",
+          "Snelbus ipv trein",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-spaarnwoude",
+      "name": "Haarlem Spaarnwoude",
+      "aliases": [],
+      "lat": 52.3828,
+      "lon": 4.67136,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "2",
+          "15",
+          "80",
+          "680",
+          "N80"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-centrum-houtplein",
+      "name": "Haarlem, Centrum/Houtplein",
+      "aliases": [],
+      "lat": 52.37452,
+      "lon": 4.63037,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "80",
+          "250",
+          "255",
+          "340",
+          "346",
+          "356",
+          "568",
+          "680",
+          "N80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-delftplein-spaarne-gasthuis",
+      "name": "Haarlem, Delftplein/Spaarne Gasthuis",
+      "aliases": [],
+      "lat": 52.42346,
+      "lon": 4.64828,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "2",
+          "3",
+          "12",
+          "14",
+          "73",
+          "244",
+          "385",
+          "481",
+          "568",
+          "569",
+          "N30",
+          "N80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-hogeschool-inholland",
+      "name": "Haarlem, Hogeschool Inholland",
+      "aliases": [],
+      "lat": 52.38711,
+      "lon": 4.61462,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "8",
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-jac-van-looystraat",
+      "name": "Haarlem, Jac. van Looystraat",
+      "aliases": [],
+      "lat": 52.37614,
+      "lon": 4.65913,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "80",
+          "567",
+          "569",
+          "680"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-julianapark",
+      "name": "Haarlem, Julianapark",
+      "aliases": [],
+      "lat": 52.39763,
+      "lon": 4.64283,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "73",
+          "244",
+          "385",
+          "568",
+          "569",
+          "N30",
+          "N80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-minahassastraat",
+      "name": "Haarlem, Minahassastraat",
+      "aliases": [],
+      "lat": 52.40884,
+      "lon": 4.65045,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "73",
+          "244",
+          "385",
+          "568",
+          "569",
+          "N30",
+          "N80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-raaksbrug",
+      "name": "Haarlem, Raaksbrug",
+      "aliases": [],
+      "lat": 52.38163,
+      "lon": 4.62873,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "14",
+          "250",
+          "255",
+          "340",
+          "346",
+          "356"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-schalkwijk-centrum",
+      "name": "Haarlem, Schalkwijk Centrum",
+      "aliases": [],
+      "lat": 52.36058,
+      "lon": 4.65628,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "4",
+          "73",
+          "300",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-schipholweg-europaweg",
+      "name": "Haarlem, Schipholweg/Europaweg",
+      "aliases": [],
+      "lat": 52.37012,
+      "lon": 4.64536,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "73",
+          "80",
+          "244",
+          "255",
+          "346",
+          "356",
+          "567",
+          "569",
+          "680",
+          "N80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlem-schouwtjesbrug",
+      "name": "Haarlem, Schouwtjesbrug",
+      "aliases": [],
+      "lat": 52.37232,
+      "lon": 4.61916,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "80",
+          "680"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlemmerliede-bungalowpark-buitenhuiz",
+      "name": "Haarlemmerliede, Bungalowpark Buitenhuiz",
+      "aliases": [],
+      "lat": 52.43393,
+      "lon": 4.71131,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haarlemmerplein",
+      "name": "Haarlemmerplein",
+      "aliases": [],
+      "lat": 52.385,
+      "lon": 4.88356,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "12",
+          "13"
+        ],
+        "bus": [
+          "18",
+          "21",
+          "22",
+          "N81",
+          "N82",
+          "N83",
+          "N84",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "halfweg-zwanenburg",
+      "name": "Halfweg-Zwanenburg",
+      "aliases": [],
+      "lat": 52.3857,
+      "lon": 4.74713,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "80",
+          "161",
+          "680",
+          "N80"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "haparandaweg",
+      "name": "Haparandaweg",
+      "aliases": [],
+      "lat": 52.39454,
+      "lon": 4.87601,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "48"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heemskerk",
+      "name": "Heemskerk",
+      "aliases": [],
+      "lat": 52.49462,
+      "lon": 4.6859,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heemstede-heemstede-centrum",
+      "name": "Heemstede, Heemstede Centrum",
+      "aliases": [],
+      "lat": 52.35244,
+      "lon": 4.62429,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "4",
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heemstede-heemstede-noord",
+      "name": "Heemstede, Heemstede Noord",
+      "aliases": [],
+      "lat": 52.3623,
+      "lon": 4.62495,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heemstede-leidsevaartweg",
+      "name": "Heemstede, Leidsevaartweg",
+      "aliases": [],
+      "lat": 52.36288,
+      "lon": 4.61054,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "14",
+          "80",
+          "680"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heemstede-wipperplein",
+      "name": "Heemstede, Wipperplein",
+      "aliases": [],
+      "lat": 52.34646,
+      "lon": 4.62384,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "4",
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heemstedestraat",
+      "name": "Heemstedestraat",
+      "aliases": [],
+      "lat": 52.35202,
+      "lon": 4.83436,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "2"
+        ],
+        "bus": [
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "heiloo",
+      "name": "Heiloo",
+      "aliases": [],
+      "lat": 52.60005,
+      "lon": 4.70223,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "408",
+          "OVoM",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hempontplein",
+      "name": "Hempontplein",
+      "aliases": [],
+      "lat": 52.41846,
+      "lon": 4.82736,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F20"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "henk-sneevlietweg",
+      "name": "Henk Sneevlietweg",
+      "aliases": [],
+      "lat": 52.3465,
+      "lon": 4.83451,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ],
+        "bus": [
+          "62"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hilversum",
+      "name": "Hilversum",
+      "aliases": [],
+      "lat": 52.22628,
+      "lon": 5.18111,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "ICE",
+          "Intercity",
+          "Intercity direct",
+          "Sprinter"
+        ],
+        "bus": [
+          "1",
+          "2",
+          "3",
+          "5",
+          "6",
+          "9",
+          "58",
+          "59",
+          "70",
+          "104",
+          "106",
+          "108",
+          "121",
+          "320",
+          "N32",
+          "OVoM",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hilversum-media-park",
+      "name": "Hilversum Media Park",
+      "aliases": [],
+      "lat": 52.23786,
+      "lon": 5.17381,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "5",
+          "N32",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hilversum-sportpark",
+      "name": "Hilversum Sportpark",
+      "aliases": [],
+      "lat": 52.21641,
+      "lon": 5.18749,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "3",
+          "59",
+          "70",
+          "100",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hilversum-tergooi-v-linschotenlaan",
+      "name": "Hilversum, Tergooi/v. Linschotenlaan",
+      "aliases": [],
+      "lat": 52.21885,
+      "lon": 5.20181,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "320",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hilversumstraat",
+      "name": "Hilversumstraat",
+      "aliases": [],
+      "lat": 52.38999,
+      "lon": 4.95891,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "37",
+          "245"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoekenes",
+      "name": "Hoekenes",
+      "aliases": [],
+      "lat": 52.3525,
+      "lon": 4.80222,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "28"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hollandsche-rading",
+      "name": "Hollandsche Rading",
+      "aliases": [],
+      "lat": 52.17794,
+      "lon": 5.17847,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "58",
+          "Flex"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp",
+      "name": "Hoofddorp",
+      "aliases": [],
+      "lat": 52.2928,
+      "lon": 4.69853,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "160",
+          "161",
+          "162",
+          "163",
+          "169",
+          "300",
+          "340",
+          "341",
+          "343",
+          "397",
+          "401",
+          "N30",
+          "N97",
+          "OVoM",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-beukenhorst",
+      "name": "Hoofddorp, Beukenhorst",
+      "aliases": [],
+      "lat": 52.28903,
+      "lon": 4.70919,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "340",
+          "341",
+          "397",
+          "N30",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-bornholm",
+      "name": "Hoofddorp, Bornholm",
+      "aliases": [],
+      "lat": 52.30993,
+      "lon": 4.66809,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-de-hoek",
+      "name": "Hoofddorp, De Hoek",
+      "aliases": [],
+      "lat": 52.29038,
+      "lon": 4.72052,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "341",
+          "361",
+          "365",
+          "397",
+          "470",
+          "N30",
+          "N70",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-expo-greater-amsterdam",
+      "name": "Hoofddorp, EXPO Greater Amsterdam",
+      "aliases": [],
+      "lat": 52.34213,
+      "lon": 4.6791,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-floriande-midden",
+      "name": "Hoofddorp, Floriande Midden",
+      "aliases": [],
+      "lat": 52.31375,
+      "lon": 4.64325,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "341"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-floriande-sportdorp",
+      "name": "Hoofddorp, Floriande Sportdorp",
+      "aliases": [],
+      "lat": 52.3062,
+      "lon": 4.64241,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "341"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-geniedijk",
+      "name": "Hoofddorp, Geniedijk",
+      "aliases": [],
+      "lat": 52.31028,
+      "lon": 4.68392,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-graan-voor-visch",
+      "name": "Hoofddorp, Graan voor Visch",
+      "aliases": [],
+      "lat": 52.29519,
+      "lon": 4.68368,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "397",
+          "N30",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-hoofddorp-centrum",
+      "name": "Hoofddorp, Hoofddorp Centrum",
+      "aliases": [],
+      "lat": 52.30167,
+      "lon": 4.69205,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "160",
+          "161",
+          "162",
+          "169",
+          "340",
+          "341",
+          "401"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-overbos-noord",
+      "name": "Hoofddorp, Overbos Noord",
+      "aliases": [],
+      "lat": 52.31891,
+      "lon": 4.66758,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "340",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-overbos-zuid",
+      "name": "Hoofddorp, Overbos Zuid",
+      "aliases": [],
+      "lat": 52.30725,
+      "lon": 4.65514,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "341"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-spaarne-gasthuis",
+      "name": "Hoofddorp, Spaarne Gasthuis",
+      "aliases": [],
+      "lat": 52.32478,
+      "lon": 4.65438,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "169",
+          "300",
+          "340",
+          "341",
+          "401",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-toolenburg-noord",
+      "name": "Hoofddorp, Toolenburg Noord",
+      "aliases": [],
+      "lat": 52.30303,
+      "lon": 4.66924,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "300",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-toolenburg-oost",
+      "name": "Hoofddorp, Toolenburg Oost",
+      "aliases": [],
+      "lat": 52.29714,
+      "lon": 4.67056,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "169",
+          "397",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorp-toolenburg-zuid",
+      "name": "Hoofddorp, Toolenburg Zuid",
+      "aliases": [],
+      "lat": 52.29538,
+      "lon": 4.65732,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "397",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoofddorpplein",
+      "name": "Hoofddorpplein",
+      "aliases": [],
+      "lat": 52.35122,
+      "lon": 4.84984,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "2"
+        ],
+        "bus": [
+          "15",
+          "62",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoorn-astronautenweg",
+      "name": "Hoorn, Astronautenweg",
+      "aliases": [],
+      "lat": 52.64112,
+      "lon": 5.03979,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "128",
+          "314",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoorn-houtzaagmolen",
+      "name": "Hoorn, Houtzaagmolen",
+      "aliases": [],
+      "lat": 52.6381,
+      "lon": 5.03139,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoorn-station",
+      "name": "Hoorn, Station",
+      "aliases": [],
+      "lat": 52.64472,
+      "lon": 5.05367,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "14",
+          "128",
+          "131",
+          "132",
+          "133",
+          "134",
+          "135",
+          "136",
+          "139",
+          "235",
+          "239",
+          "314",
+          "412",
+          "415",
+          "614",
+          "N14",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "hoorn-verfmolen",
+      "name": "Hoorn, Verfmolen",
+      "aliases": [],
+      "lat": 52.63762,
+      "lon": 5.0212,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-t-merk",
+      "name": "Huizen, 't Merk",
+      "aliases": [],
+      "lat": 52.29093,
+      "lon": 5.25829,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "108"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-amstel",
+      "name": "Huizen, Amstel",
+      "aliases": [],
+      "lat": 52.30068,
+      "lon": 5.26331,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-aristoteleslaan",
+      "name": "Huizen, Aristoteleslaan",
+      "aliases": [],
+      "lat": 52.29282,
+      "lon": 5.26828,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "200",
+          "320",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-baanbergenweg",
+      "name": "Huizen, Baanbergenweg",
+      "aliases": [],
+      "lat": 52.30293,
+      "lon": 5.23577,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "221",
+          "320",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-crailo-p-r",
+      "name": "Huizen, Crailo P+R",
+      "aliases": [],
+      "lat": 52.26798,
+      "lon": 5.2046,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109",
+          "221",
+          "320",
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-flevolaan",
+      "name": "Huizen, Flevolaan",
+      "aliases": [],
+      "lat": 52.28904,
+      "lon": 5.19744,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-huizen-busstation",
+      "name": "Huizen, Huizen Busstation",
+      "aliases": [],
+      "lat": 52.29907,
+      "lon": 5.24341,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "108",
+          "200",
+          "221",
+          "320",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-jol",
+      "name": "Huizen, Jol",
+      "aliases": [],
+      "lat": 52.29699,
+      "lon": 5.25379,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "108",
+          "200",
+          "320",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-karel-doormanlaan",
+      "name": "Huizen, Karel Doormanlaan",
+      "aliases": [],
+      "lat": 52.29728,
+      "lon": 5.22722,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "221",
+          "320",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-langerhuizenweg",
+      "name": "Huizen, Langerhuizenweg",
+      "aliases": [],
+      "lat": 52.29155,
+      "lon": 5.20942,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-lindenlaan",
+      "name": "Huizen, Lindenlaan",
+      "aliases": [],
+      "lat": 52.29264,
+      "lon": 5.23893,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-pythagoraspark",
+      "name": "Huizen, Pythagoraspark",
+      "aliases": [],
+      "lat": 52.29654,
+      "lon": 5.2777,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "huizen-zuiderzee",
+      "name": "Huizen, Zuiderzee",
+      "aliases": [],
+      "lat": 52.3072,
+      "lon": 5.25134,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijmuiden-camping-de-duindoorn",
+      "name": "IJmuiden, Camping De Duindoorn",
+      "aliases": [],
+      "lat": 52.45577,
+      "lon": 4.57323,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijmuiden-dennekoplaan",
+      "name": "IJmuiden, Dennekoplaan",
+      "aliases": [],
+      "lat": 52.44969,
+      "lon": 4.58999,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "74",
+          "382",
+          "385",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijmuiden-ijmuiden-aan-zee",
+      "name": "IJmuiden, IJmuiden aan Zee",
+      "aliases": [],
+      "lat": 52.45683,
+      "lon": 4.55936,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijmuiden-scheldestraat",
+      "name": "IJmuiden, Scheldestraat",
+      "aliases": [],
+      "lat": 52.45738,
+      "lon": 4.61158,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "74",
+          "382",
+          "385",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijmuiden-zeeweg",
+      "name": "IJmuiden, Zeeweg",
+      "aliases": [],
+      "lat": 52.45627,
+      "lon": 4.62739,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "3",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijmuiden-zwaanstraat",
+      "name": "IJmuiden, Zwaanstraat",
+      "aliases": [],
+      "lat": 52.45549,
+      "lon": 4.60183,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382",
+          "385",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ijplein",
+      "name": "IJplein",
+      "aliases": [],
+      "lat": 52.38172,
+      "lon": 4.90821,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F2"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ilpendam-ilpendam",
+      "name": "Ilpendam, Ilpendam",
+      "aliases": [],
+      "lat": 52.46469,
+      "lon": 4.949,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "104",
+          "272",
+          "276",
+          "305",
+          "306",
+          "307",
+          "308",
+          "370",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ilpendam-jaagweg",
+      "name": "Ilpendam, Jaagweg",
+      "aliases": [],
+      "lat": 52.44922,
+      "lon": 4.94903,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "104",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "insulindeweg",
+      "name": "Insulindeweg",
+      "aliases": [],
+      "lat": 52.36474,
+      "lon": 4.94761,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "7",
+          "14",
+          "25"
+        ],
+        "bus": [
+          "37",
+          "245",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "isolatorweg",
+      "name": "Isolatorweg",
+      "aliases": [],
+      "lat": 52.39517,
+      "lon": 4.85059,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "j-drijverweg",
+      "name": "J. Drijverweg",
+      "aliases": [],
+      "lat": 52.39954,
+      "lon": 4.94429,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "37",
+          "39",
+          "245",
+          "N91"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "j-m-den-uylstraat",
+      "name": "J.M. den Uylstraat",
+      "aliases": [],
+      "lat": 52.38172,
+      "lon": 4.79008,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "21"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jacob-cabeliaustraat",
+      "name": "Jacob Cabeliaustraat",
+      "aliases": [],
+      "lat": 52.38247,
+      "lon": 4.80409,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "21",
+          "61",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jan-van-galenstraat-metro",
+      "name": "Jan van Galenstraat",
+      "aliases": [],
+      "lat": 52.37279,
+      "lon": 4.8356,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ],
+        "tram": [
+          "13"
+        ],
+        "bus": [
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jan-van-galenstraat-tram",
+      "name": "Jan van Galenstraat",
+      "aliases": [],
+      "lat": 52.37472,
+      "lon": 4.85918,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "19"
+        ],
+        "bus": [
+          "18",
+          "247",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jarmuiden",
+      "name": "Jarmuiden",
+      "aliases": [],
+      "lat": 52.39066,
+      "lon": 4.79053,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "231"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jisp-de-lepelaar",
+      "name": "Jisp, De Lepelaar",
+      "aliases": [],
+      "lat": 52.50782,
+      "lon": 4.84854,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jisp-dorpsstraat-nr-137",
+      "name": "Jisp, Dorpsstraat Nr 137",
+      "aliases": [],
+      "lat": 52.50652,
+      "lon": 4.86637,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jisp-jisperdijkje-nr-3",
+      "name": "Jisp, Jisperdijkje Nr 3",
+      "aliases": [],
+      "lat": 52.5099,
+      "lon": 4.90321,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "jisp-jisperdijkje-nr-6",
+      "name": "Jisp, Jisperdijkje Nr 6",
+      "aliases": [],
+      "lat": 52.50659,
+      "lon": 4.88344,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "john-m-keynesplein",
+      "name": "John M. Keynesplein",
+      "aliases": [],
+      "lat": 52.3401,
+      "lon": 4.825,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "18",
+          "218"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kadijksplein",
+      "name": "Kadijksplein",
+      "aliases": [],
+      "lat": 52.37087,
+      "lon": 4.91342,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "42",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kadoelenpad",
+      "name": "Kadoelenpad",
+      "aliases": [],
+      "lat": 52.41391,
+      "lon": 4.9114,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "119",
+          "245",
+          "N19",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kattenburg",
+      "name": "Kattenburg",
+      "aliases": [],
+      "lat": 52.3763,
+      "lon": 4.92159,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "26"
+        ],
+        "bus": [
+          "42",
+          "43",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "katwoude-de-zedde",
+      "name": "Katwoude, De Zedde",
+      "aliases": [],
+      "lat": 52.48275,
+      "lon": 5.03023,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "112",
+          "610",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "katwoude-hotel-volendam",
+      "name": "Katwoude, Hotel Volendam",
+      "aliases": [],
+      "lat": 52.4888,
+      "lon": 5.03433,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "112",
+          "316",
+          "610",
+          "801",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "katwoude-lagedijk",
+      "name": "Katwoude, Lagedijk",
+      "aliases": [],
+      "lat": 52.4667,
+      "lon": 5.03274,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "112",
+          "314",
+          "316",
+          "610",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kelbergen",
+      "name": "Kelbergen",
+      "aliases": [],
+      "lat": 52.31353,
+      "lon": 4.97161,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "41",
+          "49",
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "koog-a-d-zaan-verzetstraat",
+      "name": "Koog a/d Zaan, Verzetstraat",
+      "aliases": [],
+      "lat": 52.46338,
+      "lon": 4.81102,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "koog-aan-de-zaan",
+      "name": "Koog aan de Zaan",
+      "aliases": [],
+      "lat": 52.45761,
+      "lon": 4.80597,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "N94",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kraaiennest",
+      "name": "Kraaiennest",
+      "aliases": [],
+      "lat": 52.31641,
+      "lon": 4.98,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "53"
+        ],
+        "bus": [
+          "47",
+          "49",
+          "66",
+          "200",
+          "271",
+          "300",
+          "N85",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "krommenie-assendelft",
+      "name": "Krommenie-Assendelft",
+      "aliases": [],
+      "lat": 52.49522,
+      "lon": 4.75613,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "69",
+          "414",
+          "456",
+          "N94",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "krommenie-blok",
+      "name": "Krommenie, Blok",
+      "aliases": [],
+      "lat": 52.50514,
+      "lon": 4.76867,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69",
+          "414"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "krommenie-glennstraat",
+      "name": "Krommenie, Glennstraat",
+      "aliases": [],
+      "lat": 52.5079,
+      "lon": 4.75678,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "krommenie-grote-beer",
+      "name": "Krommenie, Grote Beer",
+      "aliases": [],
+      "lat": 52.50163,
+      "lon": 4.75285,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "krommenie-padlaan",
+      "name": "Krommenie, Padlaan",
+      "aliases": [],
+      "lat": 52.49808,
+      "lon": 4.7724,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "krugerplein",
+      "name": "Krugerplein",
+      "aliases": [],
+      "lat": 52.35302,
+      "lon": 4.92078,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "37",
+          "245",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kruislaan",
+      "name": "Kruislaan",
+      "aliases": [],
+      "lat": 52.34751,
+      "lon": 4.93976,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "29"
+        ],
+        "bus": [
+          "40",
+          "320",
+          "329",
+          "N22",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kudelstaart-bilderdammerweg",
+      "name": "Kudelstaart, Bilderdammerweg",
+      "aliases": [],
+      "lat": 52.22806,
+      "lon": 4.73459,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "357"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kudelstaart-de-rietlanden",
+      "name": "Kudelstaart, De Rietlanden",
+      "aliases": [],
+      "lat": 52.23894,
+      "lon": 4.75675,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "357"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kudelstaart-gravin-aleidstraat",
+      "name": "Kudelstaart, Gravin Aleidstraat",
+      "aliases": [],
+      "lat": 52.2334,
+      "lon": 4.74537,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "357"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "kudelstaart-legmeerdijk",
+      "name": "Kudelstaart, Legmeerdijk",
+      "aliases": [],
+      "lat": 52.24362,
+      "lon": 4.76604,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "357"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "lange-vonder",
+      "name": "Lange Vonder",
+      "aliases": [],
+      "lat": 52.42191,
+      "lon": 4.89645,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "103",
+          "111",
+          "245",
+          "N19",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "laren-brink-centrum",
+      "name": "Laren, Brink/Centrum",
+      "aliases": [],
+      "lat": 52.25629,
+      "lon": 5.22563,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "108",
+          "109",
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "laren-rozenlaantje",
+      "name": "Laren, Rozenlaantje",
+      "aliases": [],
+      "lat": 52.26236,
+      "lon": 5.21884,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "109"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "leerdamhof",
+      "name": "Leerdamhof",
+      "aliases": [],
+      "lat": 52.3064,
+      "lon": 4.97464,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "47",
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "leidseplein",
+      "name": "Leidseplein",
+      "aliases": [],
+      "lat": 52.36328,
+      "lon": 4.88163,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "2",
+          "5",
+          "7",
+          "13",
+          "17",
+          "19",
+          "24"
+        ],
+        "bus": [
+          "357",
+          "397",
+          "N22",
+          "N26",
+          "N47",
+          "N57",
+          "N80",
+          "N82",
+          "N83",
+          "N84",
+          "N88",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "lelystad-centrum",
+      "name": "Lelystad Centrum",
+      "aliases": [],
+      "lat": 52.50775,
+      "lon": 5.4728,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Eurocity Direct",
+          "Intercity",
+          "Intercity direct",
+          "Nachttrein",
+          "Sprinter"
+        ],
+        "bus": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "13",
+          "16",
+          "143",
+          "207",
+          "214",
+          "218",
+          "650",
+          "663",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "lumierestraat",
+      "name": "Lumièrestraat",
+      "aliases": [],
+      "lat": 52.35287,
+      "lon": 4.99967,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "26"
+        ],
+        "bus": [
+          "66",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "maarssen",
+      "name": "Maarssen",
+      "aliases": [],
+      "lat": 52.13585,
+      "lon": 5.03287,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "5",
+          "12",
+          "13",
+          "48",
+          "73",
+          "128",
+          "Flex",
+          "N1"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "maasstraat",
+      "name": "Maasstraat",
+      "aliases": [],
+      "lat": 52.34694,
+      "lon": 4.8951,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "12"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "maltaweg",
+      "name": "Maltaweg",
+      "aliases": [],
+      "lat": 52.40405,
+      "lon": 4.80379,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "233"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "marken-marken-centrum",
+      "name": "Marken, Marken Centrum",
+      "aliases": [],
+      "lat": 52.45695,
+      "lon": 5.10577,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "610",
+          "N11"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "matterhorn",
+      "name": "Matterhorn",
+      "aliases": [],
+      "lat": 52.35426,
+      "lon": 4.77471,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "28"
+        ],
+        "bus": [
+          "63",
+          "194"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "mauritskade",
+      "name": "Mauritskade",
+      "aliases": [],
+      "lat": 52.36306,
+      "lon": 4.92096,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "14",
+          "19",
+          "25"
+        ],
+        "bus": [
+          "37",
+          "245",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "maxwellstraat",
+      "name": "Maxwellstraat",
+      "aliases": [],
+      "lat": 52.3478,
+      "lon": 4.92895,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "37",
+          "40",
+          "41",
+          "65",
+          "245",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "meent",
+      "name": "Meent",
+      "aliases": [],
+      "lat": 52.28109,
+      "lon": 4.8572,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "6",
+          "25"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "mercatorplein",
+      "name": "Mercatorplein",
+      "aliases": [],
+      "lat": 52.3702,
+      "lon": 4.8504,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "7",
+          "13"
+        ],
+        "bus": [
+          "15",
+          "18",
+          "247",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "michel-de-klerkhof",
+      "name": "Michel de Klerkhof",
+      "aliases": [],
+      "lat": 52.37616,
+      "lon": 4.79763,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "21",
+          "61",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "middelie-klemweg",
+      "name": "Middelie, Klemweg",
+      "aliases": [],
+      "lat": 52.54149,
+      "lon": 5.02593,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "middelie-riethoorneweg",
+      "name": "Middelie, Riethoorneweg",
+      "aliases": [],
+      "lat": 52.52716,
+      "lon": 5.03757,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "middenbeemster-de-buurt",
+      "name": "Middenbeemster, De Buurt",
+      "aliases": [],
+      "lat": 52.54791,
+      "lon": 4.91261,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "129",
+          "305",
+          "416"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "monnickendam-bereklauw",
+      "name": "Monnickendam, Bereklauw",
+      "aliases": [],
+      "lat": 52.44769,
+      "lon": 5.04797,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "419",
+          "610",
+          "N11"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "monnickendam-bernhardbrug",
+      "name": "Monnickendam, Bernhardbrug",
+      "aliases": [],
+      "lat": 52.45605,
+      "lon": 5.02969,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "103",
+          "110",
+          "111",
+          "112",
+          "273",
+          "314",
+          "315",
+          "316",
+          "419",
+          "610",
+          "614",
+          "N11",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "monnickendam-ringshemmen",
+      "name": "Monnickendam, Ringshemmen",
+      "aliases": [],
+      "lat": 52.44992,
+      "lon": 5.03002,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "103",
+          "315",
+          "419",
+          "614"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "monnickendam-zuideinde",
+      "name": "Monnickendam, Zuideinde",
+      "aliases": [],
+      "lat": 52.45682,
+      "lon": 5.03934,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "419",
+          "610",
+          "N11"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiden-centrum",
+      "name": "Muiden, Centrum",
+      "aliases": [],
+      "lat": 52.33088,
+      "lon": 5.06468,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiden-de-wegman",
+      "name": "Muiden, De Wegman",
+      "aliases": [],
+      "lat": 52.32243,
+      "lon": 5.09103,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiden-mariahoeveweg",
+      "name": "Muiden, Mariahoeveweg",
+      "aliases": [],
+      "lat": 52.32477,
+      "lon": 5.07192,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiden-maxisweg",
+      "name": "Muiden, Maxisweg",
+      "aliases": [],
+      "lat": 52.33254,
+      "lon": 5.02533,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49",
+          "221",
+          "320",
+          "321",
+          "329",
+          "330"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiden-muiden-p-r",
+      "name": "Muiden, Muiden P+R",
+      "aliases": [],
+      "lat": 52.32863,
+      "lon": 5.04993,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49",
+          "110",
+          "221",
+          "320",
+          "321",
+          "329",
+          "330",
+          "510",
+          "N22",
+          "N23"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiderberg-googweg",
+      "name": "Muiderberg, Googweg",
+      "aliases": [],
+      "lat": 52.31991,
+      "lon": 5.10325,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiderberg-muiderberg-p-r",
+      "name": "Muiderberg, Muiderberg P+R",
+      "aliases": [],
+      "lat": 52.32264,
+      "lon": 5.13034,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "muiderberg-pieter-de-hooghlaan",
+      "name": "Muiderberg, Pieter de Hooghlaan",
+      "aliases": [],
+      "lat": 52.32363,
+      "lon": 5.11862,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-bussum",
+      "name": "Naarden-Bussum",
+      "aliases": [],
+      "lat": 52.28081,
+      "lon": 5.15757,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "5",
+          "100",
+          "107",
+          "109",
+          "110",
+          "N32",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-amersfoortsestraatweg",
+      "name": "Naarden, Amersfoortsestraatweg",
+      "aliases": [],
+      "lat": 52.28379,
+      "lon": 5.1813,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "N32"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-bosch-van-bredius",
+      "name": "Naarden, Bosch van Bredius",
+      "aliases": [],
+      "lat": 52.28741,
+      "lon": 5.17268,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "107",
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-godelindeweg",
+      "name": "Naarden, Godelindeweg",
+      "aliases": [],
+      "lat": 52.28733,
+      "lon": 5.16286,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "107",
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-gooimeer-p-r",
+      "name": "Naarden, Gooimeer P+R",
+      "aliases": [],
+      "lat": 52.30592,
+      "lon": 5.145,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "221",
+          "320"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-keverdijk",
+      "name": "Naarden, Keverdijk",
+      "aliases": [],
+      "lat": 52.29899,
+      "lon": 5.14255,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-koningin-wilhelminalaan",
+      "name": "Naarden, Koningin Wilhelminalaan",
+      "aliases": [],
+      "lat": 52.28967,
+      "lon": 5.15128,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "321"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-naarderbos",
+      "name": "Naarden, Naarderbos",
+      "aliases": [],
+      "lat": 52.31544,
+      "lon": 5.14564,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "naarden-staalstraat",
+      "name": "Naarden, Staalstraat",
+      "aliases": [],
+      "lat": 52.29898,
+      "lon": 5.15574,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nageljongenstraat",
+      "name": "Nageljongenstraat",
+      "aliases": [],
+      "lat": 52.4082,
+      "lon": 4.89936,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "39",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ndsm-werf",
+      "name": "NDSM-werf",
+      "aliases": [],
+      "lat": 52.40121,
+      "lon": 4.89094,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F4",
+          "F7"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "neck-neckerbrug",
+      "name": "Neck, Neckerbrug",
+      "aliases": [],
+      "lat": 52.50827,
+      "lon": 4.91956,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nicolaas-beetsstraat",
+      "name": "Nicolaas Beetsstraat",
+      "aliases": [],
+      "lat": 52.36548,
+      "lon": 4.86547,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "7",
+          "17"
+        ],
+        "bus": [
+          "N83"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nieuw-vennep",
+      "name": "Nieuw Vennep",
+      "aliases": [],
+      "lat": 52.25902,
+      "lon": 4.64523,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "22",
+          "162",
+          "164",
+          "OVoM"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nieuw-vennep-getsewoud-centrum",
+      "name": "Nieuw-Vennep, Getsewoud Centrum",
+      "aliases": [],
+      "lat": 52.27058,
+      "lon": 4.62201,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "22",
+          "397",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nieuw-vennep-getsewoud-noord",
+      "name": "Nieuw-Vennep, Getsewoud Noord",
+      "aliases": [],
+      "lat": 52.27605,
+      "lon": 4.62974,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "397",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nieuw-vennep-getsewoud-p-en-r",
+      "name": "Nieuw-Vennep, Getsewoud P en R",
+      "aliases": [],
+      "lat": 52.25988,
+      "lon": 4.60669,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "397",
+          "N97",
+          "OVoM"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nieuw-vennep-getsewoud-zuid",
+      "name": "Nieuw-Vennep, Getsewoud Zuid",
+      "aliases": [],
+      "lat": 52.26485,
+      "lon": 4.61381,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "397",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "nieuwmarkt",
+      "name": "Nieuwmarkt",
+      "aliases": [],
+      "lat": 52.37193,
+      "lon": 4.90133,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "51",
+          "53",
+          "54"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "noord",
+      "name": "Noord",
+      "aliases": [],
+      "lat": 52.40204,
+      "lon": 4.93261,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "52"
+        ],
+        "bus": [
+          "34",
+          "37",
+          "39",
+          "100",
+          "104",
+          "110",
+          "111",
+          "112",
+          "119",
+          "245",
+          "305",
+          "306",
+          "307",
+          "308",
+          "314",
+          "315",
+          "316",
+          "N19",
+          "N91"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "noorderpark",
+      "name": "Noorderpark",
+      "aliases": [],
+      "lat": 52.3891,
+      "lon": 4.91912,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "52"
+        ],
+        "bus": [
+          "34",
+          "36",
+          "38",
+          "391",
+          "394",
+          "N91",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "olympiaplein",
+      "name": "Olympiaplein",
+      "aliases": [],
+      "lat": 52.34633,
+      "lon": 4.86621,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "24"
+        ],
+        "bus": [
+          "15",
+          "62",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ookmeerweg",
+      "name": "Ookmeerweg",
+      "aliases": [],
+      "lat": 52.36579,
+      "lon": 4.80424,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "61",
+          "247",
+          "369"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oosterlengte",
+      "name": "Oosterlengte",
+      "aliases": [],
+      "lat": 52.40597,
+      "lon": 4.92219,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "34",
+          "39",
+          "111",
+          "119",
+          "245",
+          "N19"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oosthuizen-oosthuizen",
+      "name": "Oosthuizen, Oosthuizen",
+      "aliases": [],
+      "lat": 52.5745,
+      "lon": 4.9983,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "413",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oostzaan-ambacht",
+      "name": "Oostzaan, Ambacht",
+      "aliases": [],
+      "lat": 52.43707,
+      "lon": 4.86229,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "N19"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oostzaan-de-kunstgreep",
+      "name": "Oostzaan, De Kunstgreep",
+      "aliases": [],
+      "lat": 52.44012,
+      "lon": 4.87505,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "N19"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oostzaan-kolksloot",
+      "name": "Oostzaan, Kolksloot",
+      "aliases": [],
+      "lat": 52.43252,
+      "lon": 4.88151,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "N19"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oostzanerdijk",
+      "name": "Oostzanerdijk",
+      "aliases": [],
+      "lat": 52.4203,
+      "lon": 4.88116,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "39",
+          "103",
+          "245"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oranjebaan",
+      "name": "Oranjebaan",
+      "aliases": [],
+      "lat": 52.3031,
+      "lon": 4.87186,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "6",
+          "25"
+        ],
+        "bus": [
+          "171",
+          "300",
+          "N30",
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "osdorpplein-oost",
+      "name": "Osdorpplein Oost",
+      "aliases": [],
+      "lat": 52.35898,
+      "lon": 4.80789,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "17",
+          "27"
+        ],
+        "bus": [
+          "63",
+          "247",
+          "369",
+          "N83"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "oudendijk-oudendijk-n247",
+      "name": "Oudendijk, Oudendijk (N247)",
+      "aliases": [],
+      "lat": 52.60133,
+      "lon": 5.00336,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "413",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ouderkerk-a-d-amstel-ouderkerk-oost",
+      "name": "Ouderkerk a/d Amstel, Ouderkerk Oost",
+      "aliases": [],
+      "lat": 52.29953,
+      "lon": 4.91094,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "171",
+          "300",
+          "356",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "ouderkerkerlaan",
+      "name": "Ouderkerkerlaan",
+      "aliases": [],
+      "lat": 52.29626,
+      "lon": 4.86753,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "6",
+          "25"
+        ],
+        "bus": [
+          "149",
+          "174",
+          "199",
+          "356",
+          "OVoM"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "overamstel",
+      "name": "Overamstel",
+      "aliases": [],
+      "lat": 52.33149,
+      "lon": 4.91682,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "overveen",
+      "name": "Overveen",
+      "aliases": [],
+      "lat": 52.39104,
+      "lon": 4.60737,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "481"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "peter-martensstraat",
+      "name": "Peter Martensstraat",
+      "aliases": [],
+      "lat": 52.34867,
+      "lon": 5.01423,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49",
+          "66",
+          "360"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "piet-wiedijkstraat",
+      "name": "Piet Wiedijkstraat",
+      "aliases": [],
+      "lat": 52.35518,
+      "lon": 4.81536,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "63",
+          "N83"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "plataanstraat",
+      "name": "Plataanstraat",
+      "aliases": [],
+      "lat": 52.33244,
+      "lon": 4.94103,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "41"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "plein-40-45",
+      "name": "Plein '40 - '45",
+      "aliases": [],
+      "lat": 52.38114,
+      "lon": 4.82189,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "7"
+        ],
+        "bus": [
+          "21",
+          "80",
+          "247",
+          "369",
+          "N80",
+          "N82"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "plesostraat",
+      "name": "Plesostraat",
+      "aliases": [],
+      "lat": 52.38792,
+      "lon": 4.82688,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "61",
+          "231"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "pontsteiger",
+      "name": "Pontsteiger",
+      "aliases": [],
+      "lat": 52.3922,
+      "lon": 4.88594,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F6",
+          "F7"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "poortwachter",
+      "name": "Poortwachter",
+      "aliases": [],
+      "lat": 52.28323,
+      "lon": 4.84542,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "6",
+          "25"
+        ],
+        "bus": [
+          "178",
+          "N47"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "postjesweg-metro",
+      "name": "Postjesweg",
+      "aliases": [],
+      "lat": 52.36486,
+      "lon": 4.83392,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "51"
+        ],
+        "bus": [
+          "18",
+          "N83"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "postjesweg-tram",
+      "name": "Postjesweg",
+      "aliases": [],
+      "lat": 52.36415,
+      "lon": 4.85317,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "7",
+          "17"
+        ],
+        "bus": [
+          "15",
+          "18",
+          "N83"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "president-kennedylaan",
+      "name": "President Kennedylaan",
+      "aliases": [],
+      "lat": 52.34091,
+      "lon": 4.90182,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "62"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend",
+      "name": "Purmerend",
+      "aliases": [],
+      "lat": 52.50367,
+      "lon": 4.95452,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "110",
+          "416",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-overwhere",
+      "name": "Purmerend Overwhere",
+      "aliases": [],
+      "lat": 52.51162,
+      "lon": 4.96675,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "101",
+          "102",
+          "276",
+          "306",
+          "413",
+          "N06",
+          "N07",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-weidevenne",
+      "name": "Purmerend Weidevenne",
+      "aliases": [],
+      "lat": 52.49626,
+      "lon": 4.93575,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "101",
+          "102",
+          "103",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-bovenlandsestraat",
+      "name": "Purmerend, Bovenlandsestraat",
+      "aliases": [],
+      "lat": 52.49708,
+      "lon": 4.96227,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "104",
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-cantekoogweg",
+      "name": "Purmerend, Cantekoogweg",
+      "aliases": [],
+      "lat": 52.51752,
+      "lon": 4.97288,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "101",
+          "102",
+          "413"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-de-graeffweg",
+      "name": "Purmerend, De Graeffweg",
+      "aliases": [],
+      "lat": 52.51089,
+      "lon": 4.98693,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "101",
+          "102",
+          "104",
+          "110",
+          "272",
+          "307",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-gedempte-singelgracht",
+      "name": "Purmerend, Gedempte Singelgracht",
+      "aliases": [],
+      "lat": 52.51109,
+      "lon": 4.94565,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "101",
+          "102",
+          "103",
+          "110",
+          "129",
+          "305",
+          "413",
+          "801",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-graanmaalderij",
+      "name": "Purmerend, Graanmaalderij",
+      "aliases": [],
+      "lat": 52.51004,
+      "lon": 4.93464,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-jan-blankenbrug",
+      "name": "Purmerend, Jan Blankenbrug",
+      "aliases": [],
+      "lat": 52.49663,
+      "lon": 4.9481,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "103",
+          "276",
+          "305",
+          "306",
+          "308",
+          "370",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-kelvinstraat",
+      "name": "Purmerend, Kelvinstraat",
+      "aliases": [],
+      "lat": 52.51533,
+      "lon": 4.99491,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "101",
+          "102",
+          "110",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-m-l-kingweg",
+      "name": "Purmerend, M.L.Kingweg",
+      "aliases": [],
+      "lat": 52.52407,
+      "lon": 4.96264,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "101",
+          "102",
+          "276",
+          "306",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-nieuwe-gouw",
+      "name": "Purmerend, Nieuwe Gouw",
+      "aliases": [],
+      "lat": 52.52046,
+      "lon": 4.98553,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "101",
+          "102",
+          "413"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-polderweg",
+      "name": "Purmerend, Polderweg",
+      "aliases": [],
+      "lat": 52.51879,
+      "lon": 5.00312,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "101",
+          "102"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-slotermeer",
+      "name": "Purmerend, Slotermeer",
+      "aliases": [],
+      "lat": 52.4973,
+      "lon": 4.97393,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "104",
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-vurige-staart",
+      "name": "Purmerend, Vurige Staart",
+      "aliases": [],
+      "lat": 52.49072,
+      "lon": 4.9497,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "276",
+          "305",
+          "306",
+          "308",
+          "370",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-wijkcentrum",
+      "name": "Purmerend, Wijkcentrum",
+      "aliases": [],
+      "lat": 52.50393,
+      "lon": 4.98266,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "104",
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerend-wilgenhoek",
+      "name": "Purmerend, Wilgenhoek",
+      "aliases": [],
+      "lat": 52.51655,
+      "lon": 4.95621,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "purmerweg",
+      "name": "Purmerweg",
+      "aliases": [],
+      "lat": 52.39,
+      "lon": 4.94855,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "N91"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "reigersbos",
+      "name": "Reigersbos",
+      "aliases": [],
+      "lat": 52.29623,
+      "lon": 4.9739,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "54"
+        ],
+        "bus": [
+          "47",
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "reigersbroeck",
+      "name": "Reigersbroeck",
+      "aliases": [],
+      "lat": 52.31048,
+      "lon": 5.00156,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "49"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "rietzangerweg",
+      "name": "Rietzangerweg",
+      "aliases": [],
+      "lat": 52.35084,
+      "lon": 4.97383,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "44"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "rode-kruisstraat",
+      "name": "Rode Kruisstraat",
+      "aliases": [],
+      "lat": 52.39472,
+      "lon": 4.92864,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "38",
+          "N91"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "rokin",
+      "name": "Rokin",
+      "aliases": [],
+      "lat": 52.36957,
+      "lon": 4.89233,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "52"
+        ],
+        "tram": [
+          "4",
+          "14"
+        ],
+        "bus": [
+          "N82",
+          "N83",
+          "N85",
+          "N87",
+          "N88",
+          "N89",
+          "N91",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "sacharovlaan",
+      "name": "Sacharovlaan",
+      "aliases": [],
+      "lat": 52.28237,
+      "lon": 4.83253,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "6",
+          "25"
+        ],
+        "bus": [
+          "257",
+          "357",
+          "N57"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "santpoort-noord",
+      "name": "Santpoort Noord",
+      "aliases": [],
+      "lat": 52.43368,
+      "lon": 4.63279,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "481",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "santpoort-zuid",
+      "name": "Santpoort Zuid",
+      "aliases": [],
+      "lat": 52.41946,
+      "lon": 4.63119,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "481",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "santpoort-noord-hagelingerweg",
+      "name": "Santpoort-Noord, Hagelingerweg",
+      "aliases": [],
+      "lat": 52.43322,
+      "lon": 4.64439,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "385",
+          "481",
+          "N30"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "scharwoude-gemaal-westerkogge",
+      "name": "Scharwoude, Gemaal Westerkogge",
+      "aliases": [],
+      "lat": 52.6298,
+      "lon": 5.01692,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "scharwoude-ooms",
+      "name": "Scharwoude, Ooms",
+      "aliases": [],
+      "lat": 52.62244,
+      "lon": 5.01273,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schiphol-airport",
+      "name": "Schiphol Airport",
+      "aliases": [],
+      "lat": 52.30884,
+      "lon": 4.76131,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Eurocity Direct",
+          "Eurostar",
+          "Intercity",
+          "Intercity direct",
+          "Nachttrein",
+          "Sprinter"
+        ],
+        "bus": [
+          "3",
+          "180",
+          "181",
+          "185",
+          "186",
+          "190",
+          "191",
+          "194",
+          "195",
+          "198",
+          "199",
+          "200",
+          "218",
+          "245",
+          "247",
+          "287",
+          "300",
+          "341",
+          "361",
+          "365",
+          "369",
+          "397",
+          "470",
+          "N30",
+          "N70",
+          "N90",
+          "N97",
+          "Snelbus ipv trein",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schiphol-rijk-knooppunt-schiphol-zuid",
+      "name": "Schiphol-Rijk, Knooppunt Schiphol Zuid",
+      "aliases": [],
+      "lat": 52.27699,
+      "lon": 4.74631,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "180",
+          "181",
+          "287",
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schiphol-handelskade",
+      "name": "Schiphol, Handelskade",
+      "aliases": [],
+      "lat": 52.30312,
+      "lon": 4.75108,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "1",
+          "180",
+          "181",
+          "186",
+          "190",
+          "191",
+          "194",
+          "195",
+          "199",
+          "300",
+          "341",
+          "361",
+          "365",
+          "397",
+          "470",
+          "N30",
+          "N70",
+          "N90",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schiphol-knooppunt-noord",
+      "name": "Schiphol, Knooppunt Noord",
+      "aliases": [],
+      "lat": 52.32249,
+      "lon": 4.79299,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "180",
+          "181",
+          "186",
+          "190",
+          "191",
+          "194",
+          "195",
+          "198",
+          "199",
+          "200",
+          "218",
+          "245",
+          "247",
+          "300",
+          "356",
+          "369",
+          "397",
+          "N30",
+          "N90",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schiphol-p30-parkeerterrein",
+      "name": "Schiphol, P30 Parkeerterrein",
+      "aliases": [],
+      "lat": 52.2911,
+      "lon": 4.7336,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "180",
+          "181",
+          "186",
+          "190",
+          "191",
+          "194",
+          "195",
+          "199",
+          "N90"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schiphol-p40-parkeerterrein",
+      "name": "Schiphol, P40 Parkeerterrein",
+      "aliases": [],
+      "lat": 52.32197,
+      "lon": 4.77486,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "180",
+          "181",
+          "186",
+          "190",
+          "191",
+          "194",
+          "195",
+          "199",
+          "200",
+          "N30",
+          "N90",
+          "N97"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "schouw-splitsing",
+      "name": "Schouw, Splitsing",
+      "aliases": [],
+      "lat": 52.42231,
+      "lon": 4.95374,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "104",
+          "110",
+          "111",
+          "112",
+          "272",
+          "273",
+          "276",
+          "305",
+          "306",
+          "307",
+          "308",
+          "314",
+          "315",
+          "316",
+          "370",
+          "N06",
+          "N07",
+          "N11",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "science-park-terra",
+      "name": "Science Park Terra",
+      "aliases": [],
+      "lat": 52.35424,
+      "lon": 4.95801,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "40"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "sicilieweg",
+      "name": "Siciliëweg",
+      "aliases": [],
+      "lat": 52.41603,
+      "lon": 4.7972,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "233"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "sneeuwbalstraat",
+      "name": "Sneeuwbalstraat",
+      "aliases": [],
+      "lat": 52.39636,
+      "lon": 4.91404,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "34",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "spaarndam",
+      "name": "Spaarndam",
+      "aliases": [],
+      "lat": 52.43146,
+      "lon": 4.72539,
+      "mode": "ferry",
+      "lines": {
+        "bus": [
+          "382"
+        ],
+        "ferry": [
+          "F21"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "spaarndammerdijk",
+      "name": "Spaarndammerdijk",
+      "aliases": [],
+      "lat": 52.3925,
+      "lon": 4.86122,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "22",
+          "N81"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "spaarnwoude-golfbaan",
+      "name": "Spaarnwoude, Golfbaan",
+      "aliases": [],
+      "lat": 52.43796,
+      "lon": 4.70234,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "spaarnwoude-zijkanaal-b",
+      "name": "Spaarnwoude, Zijkanaal B",
+      "aliases": [],
+      "lat": 52.44425,
+      "lon": 4.68891,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "spaklerweg",
+      "name": "Spaklerweg",
+      "aliases": [],
+      "lat": 52.34003,
+      "lon": 4.92081,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "51",
+          "53",
+          "54"
+        ],
+        "bus": [
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "sporenburg",
+      "name": "Sporenburg",
+      "aliases": [],
+      "lat": 52.37433,
+      "lon": 4.9497,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F9"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "sportlaan",
+      "name": "Sportlaan",
+      "aliases": [],
+      "lat": 52.29011,
+      "lon": 4.86366,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "6",
+          "25"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "staghof",
+      "name": "Staghof",
+      "aliases": [],
+      "lat": 52.41355,
+      "lon": 4.92274,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "34"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "steigereiland",
+      "name": "Steigereiland",
+      "aliases": [],
+      "lat": 52.363,
+      "lon": 4.98059,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "26"
+        ],
+        "bus": [
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "strandvliet",
+      "name": "Strandvliet",
+      "aliases": [],
+      "lat": 52.31847,
+      "lon": 4.94145,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "54"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "surinameplein",
+      "name": "Surinameplein",
+      "aliases": [],
+      "lat": 52.35793,
+      "lon": 4.85088,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "1",
+          "17",
+          "27",
+          "28"
+        ],
+        "bus": [
+          "15"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "uitdam-aansluiting-markerdijk",
+      "name": "Uitdam, Aansluiting Markerdijk",
+      "aliases": [],
+      "lat": 52.43628,
+      "lon": 5.0784,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "610",
+          "N11"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "uitgeest",
+      "name": "Uitgeest",
+      "aliases": [],
+      "lat": 52.52172,
+      "lon": 4.70207,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "71",
+          "163",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "uithoorn-centrum",
+      "name": "Uithoorn Centrum",
+      "aliases": [],
+      "lat": 52.23504,
+      "lon": 4.83429,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "25"
+        ],
+        "bus": [
+          "123",
+          "330",
+          "526"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "uithoorn-noorddammerweg",
+      "name": "Uithoorn, Noorddammerweg",
+      "aliases": [],
+      "lat": 52.24885,
+      "lon": 4.80282,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "uithoorn-poelweg",
+      "name": "Uithoorn, Poelweg",
+      "aliases": [],
+      "lat": 52.25136,
+      "lon": 4.79337,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "340"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "uithoorn-uithoorn-busstation",
+      "name": "Uithoorn, Uithoorn Busstation",
+      "aliases": [],
+      "lat": 52.24291,
+      "lon": 4.82124,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "25"
+        ],
+        "bus": [
+          "123",
+          "147",
+          "149",
+          "174",
+          "274",
+          "330",
+          "340",
+          "526",
+          "N47",
+          "OVoM"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "utrecht-centraal",
+      "name": "Utrecht Centraal",
+      "aliases": [],
+      "lat": 52.08977,
+      "lon": 5.10967,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "European Sleeper",
+          "GoVolta",
+          "ICE",
+          "Intercity",
+          "Nachttrein",
+          "Nightjet",
+          "Sprinter"
+        ],
+        "tram": [
+          "20",
+          "21",
+          "22"
+        ],
+        "bus": [
+          "1",
+          "2",
+          "3",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "12",
+          "13",
+          "16",
+          "18",
+          "19",
+          "28",
+          "47",
+          "55",
+          "65",
+          "66",
+          "73",
+          "74",
+          "77",
+          "84",
+          "85",
+          "90",
+          "102",
+          "120",
+          "184",
+          "195",
+          "307",
+          "341",
+          "350",
+          "387",
+          "388",
+          "395",
+          "500",
+          "N1",
+          "N2",
+          "N4",
+          "N5",
+          "N6",
+          "N7",
+          "N8",
+          "N9",
+          "N20",
+          "N41",
+          "N50",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "utrecht-overvecht",
+      "name": "Utrecht Overvecht",
+      "aliases": [],
+      "lat": 52.11036,
+      "lon": 5.12548,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "1",
+          "6",
+          "11",
+          "30",
+          "Flex",
+          "N20",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "utrecht-vaartsche-rijn",
+      "name": "Utrecht Vaartsche Rijn",
+      "aliases": [],
+      "lat": 52.07826,
+      "lon": 5.12249,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "tram": [
+          "20",
+          "21",
+          "22"
+        ],
+        "bus": [
+          "8",
+          "9",
+          "29",
+          "47",
+          "341",
+          "N4"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "utrecht-zuilen",
+      "name": "Utrecht Zuilen",
+      "aliases": [],
+      "lat": 52.10317,
+      "lon": 5.08941,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "11",
+          "12",
+          "120",
+          "Flex"
+        ]
+      },
+      "isStation": true,
+      "extraCost": true,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "valentijnkade",
+      "name": "Valentijnkade",
+      "aliases": [],
+      "lat": 52.35892,
+      "lon": 4.94076,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "40",
+          "65"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "van-boshuizenstraat",
+      "name": "Van Boshuizenstraat",
+      "aliases": [],
+      "lat": 52.32479,
+      "lon": 4.86893,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "6",
+          "25"
+        ],
+        "bus": [
+          "463",
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "van-der-madeweg",
+      "name": "Van der Madeweg",
+      "aliases": [],
+      "lat": 52.32952,
+      "lon": 4.93045,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "53",
+          "54"
+        ],
+        "bus": [
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "van-hallstraat",
+      "name": "Van Hallstraat",
+      "aliases": [],
+      "lat": 52.38495,
+      "lon": 4.86879,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5"
+        ],
+        "bus": [
+          "21"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "van-heenvlietlaan",
+      "name": "Van Heenvlietlaan",
+      "aliases": [],
+      "lat": 52.3249,
+      "lon": 4.88318,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "62"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "van-woustraat",
+      "name": "Van Woustraat",
+      "aliases": [],
+      "lat": 52.35482,
+      "lon": 4.90123,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "4",
+          "25"
+        ],
+        "bus": [
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "veelaan",
+      "name": "Veelaan",
+      "aliases": [],
+      "lat": 52.36803,
+      "lon": 4.93953,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "42",
+          "65",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "veenendaalplein",
+      "name": "Veenendaalplein",
+      "aliases": [],
+      "lat": 52.30151,
+      "lon": 4.98063,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "47",
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "velsen-noord",
+      "name": "Velsen Noord",
+      "aliases": [],
+      "lat": 52.46585,
+      "lon": 4.63237,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "velsen-zuid",
+      "name": "Velsen Zuid",
+      "aliases": [],
+      "lat": 52.46291,
+      "lon": 4.63273,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F22"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "velsen-zuid-laaglandersluisweg",
+      "name": "Velsen Zuid, Laaglandersluisweg",
+      "aliases": [],
+      "lat": 52.45588,
+      "lon": 4.66791,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "velsen-zuid-parkweg",
+      "name": "Velsen Zuid, Parkweg",
+      "aliases": [],
+      "lat": 52.45975,
+      "lon": 4.648,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "74",
+          "382"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "vennepluimstraat",
+      "name": "Vennepluimstraat",
+      "aliases": [],
+      "lat": 52.35771,
+      "lon": 4.9906,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "26"
+        ],
+        "bus": [
+          "66",
+          "N89"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "venserpolder",
+      "name": "Venserpolder",
+      "aliases": [],
+      "lat": 52.32676,
+      "lon": 4.94635,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "53"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "verrijn-stuartweg",
+      "name": "Verrijn Stuartweg",
+      "aliases": [],
+      "lat": 52.32863,
+      "lon": 4.96674,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "50",
+          "53"
+        ],
+        "bus": [
+          "200",
+          "271",
+          "276",
+          "300",
+          "330",
+          "370",
+          "N87"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "victorieplein",
+      "name": "Victorieplein",
+      "aliases": [],
+      "lat": 52.3466,
+      "lon": 4.90558,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "4",
+          "12"
+        ],
+        "bus": [
+          "62",
+          "245",
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "vijzelgracht",
+      "name": "Vijzelgracht",
+      "aliases": [],
+      "lat": 52.35939,
+      "lon": 4.89122,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "52"
+        ],
+        "tram": [
+          "1",
+          "7",
+          "19",
+          "20"
+        ],
+        "bus": [
+          "N82",
+          "N83",
+          "N88"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "volendam-dirk-visstraat",
+      "name": "Volendam, Dirk Visstraat",
+      "aliases": [],
+      "lat": 52.49598,
+      "lon": 5.05724,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "112",
+          "273",
+          "614"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "volendam-kimsterweg",
+      "name": "Volendam, Kimsterweg",
+      "aliases": [],
+      "lat": 52.50854,
+      "lon": 5.07717,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "volendam-mgr-c-veermanlaan",
+      "name": "Volendam, Mgr. C. Veermanlaan",
+      "aliases": [],
+      "lat": 52.50245,
+      "lon": 5.07146,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "110",
+          "273",
+          "316",
+          "614"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "volendam-volendam-centrum",
+      "name": "Volendam, Volendam Centrum",
+      "aliases": [],
+      "lat": 52.49382,
+      "lon": 5.06895,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "316",
+          "614",
+          "801",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "volkstuin",
+      "name": "Volkstuin",
+      "aliases": [],
+      "lat": 52.38721,
+      "lon": 4.96825,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "37",
+          "245"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "vorticellaweg",
+      "name": "Vorticellaweg",
+      "aliases": [],
+      "lat": 52.41975,
+      "lon": 4.90803,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "119",
+          "245",
+          "N19",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "warder-verkavelingweg",
+      "name": "Warder, Verkavelingweg",
+      "aliases": [],
+      "lat": 52.56199,
+      "lon": 5.00872,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "314",
+          "614",
+          "N14"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "watergang-watergang",
+      "name": "Watergang, Watergang",
+      "aliases": [],
+      "lat": 52.43852,
+      "lon": 4.95109,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "100",
+          "104",
+          "272",
+          "276",
+          "305",
+          "370",
+          "N06",
+          "N07"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "waterlooplein",
+      "name": "Waterlooplein",
+      "aliases": [],
+      "lat": 52.36747,
+      "lon": 4.90327,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "51",
+          "53",
+          "54"
+        ],
+        "tram": [
+          "14"
+        ],
+        "bus": [
+          "N85",
+          "N87",
+          "N89",
+          "N91",
+          "N93"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "weesp",
+      "name": "Weesp",
+      "aliases": [],
+      "lat": 52.3126,
+      "lon": 5.04384,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "49",
+          "106",
+          "110",
+          "522",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "weesperplein",
+      "name": "Weesperplein",
+      "aliases": [],
+      "lat": 52.3613,
+      "lon": 4.90791,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "51",
+          "53",
+          "54"
+        ],
+        "tram": [
+          "1",
+          "7",
+          "19"
+        ],
+        "bus": [
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wervershoofstraat",
+      "name": "Wervershoofstraat",
+      "aliases": [],
+      "lat": 52.3926,
+      "lon": 4.93996,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "36",
+          "N91"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "westwijk",
+      "name": "Westwijk",
+      "aliases": [],
+      "lat": 52.27454,
+      "lon": 4.83073,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "6",
+          "25"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "westzaan-grote-steng",
+      "name": "Westzaan, Grote Steng",
+      "aliases": [],
+      "lat": 52.43304,
+      "lon": 4.76206,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "westzaan-kleine-steng",
+      "name": "Westzaan, Kleine Steng",
+      "aliases": [],
+      "lat": 52.43205,
+      "lon": 4.77373,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65",
+          "456"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wibautstraat",
+      "name": "Wibautstraat",
+      "aliases": [],
+      "lat": 52.35565,
+      "lon": 4.91103,
+      "mode": "metro",
+      "lines": {
+        "metro": [
+          "51",
+          "53",
+          "54"
+        ],
+        "tram": [
+          "25"
+        ],
+        "bus": [
+          "N85"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormer-de-balk",
+      "name": "Wormer, De Balk",
+      "aliases": [],
+      "lat": 52.4906,
+      "lon": 4.80781,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormer-mariastraat",
+      "name": "Wormer, Mariastraat",
+      "aliases": [],
+      "lat": 52.50043,
+      "lon": 4.82636,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormer-oosteinde",
+      "name": "Wormer, Oosteinde",
+      "aliases": [],
+      "lat": 52.5018,
+      "lon": 4.84278,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormer-zaandammerstraat",
+      "name": "Wormer, Zaandammerstraat",
+      "aliases": [],
+      "lat": 52.49846,
+      "lon": 4.81269,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67",
+          "414"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormer-zandweg",
+      "name": "Wormer, Zandweg",
+      "aliases": [],
+      "lat": 52.49549,
+      "lon": 4.8021,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67",
+          "414"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormerveer",
+      "name": "Wormerveer",
+      "aliases": [],
+      "lat": 52.48924,
+      "lon": 4.79335,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "67",
+          "69",
+          "414",
+          "N94",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormerveer-krokusstraat",
+      "name": "Wormerveer, Krokusstraat",
+      "aliases": [],
+      "lat": 52.49633,
+      "lon": 4.78249,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69",
+          "414"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormerveer-noorddijk",
+      "name": "Wormerveer, Noorddijk",
+      "aliases": [],
+      "lat": 52.49867,
+      "lon": 4.79351,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "wormerveer-schildersbuurt",
+      "name": "Wormerveer, Schildersbuurt",
+      "aliases": [],
+      "lat": 52.48295,
+      "lon": 4.80722,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67",
+          "69",
+          "N94"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaaiersweg",
+      "name": "Zaaiersweg",
+      "aliases": [],
+      "lat": 52.33943,
+      "lon": 4.93894,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "41"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-train",
+      "name": "Zaandam",
+      "aliases": [],
+      "lat": 52.43861,
+      "lon": 4.81398,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "63",
+          "64",
+          "65",
+          "67",
+          "69",
+          "111",
+          "394",
+          "456",
+          "801",
+          "N19",
+          "N94",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-ferry",
+      "name": "Zaandam",
+      "aliases": [],
+      "lat": 52.42129,
+      "lon": 4.82625,
+      "mode": "ferry",
+      "lines": {
+        "bus": [
+          "456"
+        ],
+        "ferry": [
+          "F20"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-kogerveld",
+      "name": "Zaandam Kogerveld",
+      "aliases": [],
+      "lat": 52.45685,
+      "lon": 4.81918,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "64",
+          "69",
+          "391",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-barkstraat",
+      "name": "Zaandam, Barkstraat",
+      "aliases": [],
+      "lat": 52.4498,
+      "lon": 4.84456,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "391",
+          "394",
+          "395",
+          "N19"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-borgerdiep",
+      "name": "Zaandam, Borgerdiep",
+      "aliases": [],
+      "lat": 52.46672,
+      "lon": 4.82698,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69",
+          "391"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-botenmakersstraat",
+      "name": "Zaandam, Botenmakersstraat",
+      "aliases": [],
+      "lat": 52.44238,
+      "lon": 4.8217,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-de-vlinder",
+      "name": "Zaandam, De Vlinder",
+      "aliases": [],
+      "lat": 52.42943,
+      "lon": 4.85647,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "63",
+          "65",
+          "111",
+          "391",
+          "394",
+          "395",
+          "N94"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-de-weer-twiskeweg",
+      "name": "Zaandam, De Weer/Twiskeweg",
+      "aliases": [],
+      "lat": 52.44167,
+      "lon": 4.84205,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-dodonaeusstraat",
+      "name": "Zaandam, Dodonaeusstraat",
+      "aliases": [],
+      "lat": 52.4398,
+      "lon": 4.85315,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "391",
+          "394",
+          "395",
+          "N19"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-ducaatstraat",
+      "name": "Zaandam, Ducaatstraat",
+      "aliases": [],
+      "lat": 52.42859,
+      "lon": 4.80231,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65",
+          "456"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-het-mennistenerf",
+      "name": "Zaandam, Het Mennistenerf",
+      "aliases": [],
+      "lat": 52.44214,
+      "lon": 4.83181,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "64",
+          "65",
+          "69",
+          "111",
+          "391",
+          "394",
+          "N94"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-kopermolenstraat",
+      "name": "Zaandam, Kopermolenstraat",
+      "aliases": [],
+      "lat": 52.44947,
+      "lon": 4.82737,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "64",
+          "65",
+          "69",
+          "391"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-ronde-tocht",
+      "name": "Zaandam, Ronde Tocht",
+      "aliases": [],
+      "lat": 52.43019,
+      "lon": 4.81173,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "63",
+          "64",
+          "65"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-schipbeek",
+      "name": "Zaandam, Schipbeek",
+      "aliases": [],
+      "lat": 52.47189,
+      "lon": 4.84258,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69",
+          "391"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-vijfhoek",
+      "name": "Zaandam, Vijfhoek",
+      "aliases": [],
+      "lat": 52.43081,
+      "lon": 4.84193,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "391",
+          "N94"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-westerwateringtunnel",
+      "name": "Zaandam, Westerwateringtunnel",
+      "aliases": [],
+      "lat": 52.44695,
+      "lon": 4.80928,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "64",
+          "65",
+          "69",
+          "394",
+          "N19",
+          "N94"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-willem-hooftkade",
+      "name": "Zaandam, Willem Hooftkade",
+      "aliases": [],
+      "lat": 52.4292,
+      "lon": 4.78986,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "65",
+          "456"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandam-zaanse-schans",
+      "name": "Zaandam, Zaanse Schans",
+      "aliases": [],
+      "lat": 52.47298,
+      "lon": 4.82315,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "69",
+          "391",
+          "800",
+          "801"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandijk-zaanse-schans",
+      "name": "Zaandijk Zaanse Schans",
+      "aliases": [],
+      "lat": 52.46936,
+      "lon": 4.80538,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Intercity",
+          "Sprinter"
+        ],
+        "bus": [
+          "801",
+          "N94",
+          "Stopbus ipv trein"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zaandijk-willem-dreeslaan",
+      "name": "Zaandijk, Willem Dreeslaan",
+      "aliases": [],
+      "lat": 52.47555,
+      "lon": 4.81247,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "67"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zamenhofstraat",
+      "name": "Zamenhofstraat",
+      "aliases": [],
+      "lat": 52.38499,
+      "lon": 4.93137,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F1"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-aan-zee",
+      "name": "Zandvoort aan Zee",
+      "aliases": [],
+      "lat": 52.37586,
+      "lon": 4.53116,
+      "mode": "train",
+      "lines": {
+        "train": [
+          "Sprinter"
+        ],
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": true,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-circuit-ingang",
+      "name": "Zandvoort, Circuit ingang",
+      "aliases": [],
+      "lat": 52.39408,
+      "lon": 4.5388,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-keesomstraat",
+      "name": "Zandvoort, Keesomstraat",
+      "aliases": [],
+      "lat": 52.37963,
+      "lon": 4.55436,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-kostverlorenstraat",
+      "name": "Zandvoort, Kostverlorenstraat",
+      "aliases": [],
+      "lat": 52.36938,
+      "lon": 4.53845,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "80",
+          "81"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-v-lennepweg",
+      "name": "Zandvoort, v. Lennepweg",
+      "aliases": [],
+      "lat": 52.37645,
+      "lon": 4.54072,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-waterleiding-nw-unicum",
+      "name": "Zandvoort, Waterleiding/Nw. Unicum",
+      "aliases": [],
+      "lat": 52.36508,
+      "lon": 4.55296,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "80"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zandvoort-zandvoort-circuit",
+      "name": "Zandvoort, Zandvoort Circuit",
+      "aliases": [],
+      "lat": 52.3848,
+      "lon": 4.53397,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "81",
+          "84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zeeburgereiland",
+      "name": "Zeeburgereiland",
+      "aliases": [],
+      "lat": 52.37547,
+      "lon": 4.95574,
+      "mode": "ferry",
+      "lines": {
+        "ferry": [
+          "F9"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zonnestein",
+      "name": "Zonnestein",
+      "aliases": [],
+      "lat": 52.31173,
+      "lon": 4.87235,
+      "mode": "tram",
+      "lines": {
+        "tram": [
+          "5",
+          "6",
+          "25"
+        ],
+        "bus": [
+          "N84"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zuiderwoude-dijkeinde",
+      "name": "Zuiderwoude, Dijkeinde",
+      "aliases": [],
+      "lat": 52.43707,
+      "lon": 5.06351,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "419",
+          "610",
+          "N11"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    },
+    {
+      "id": "zuiderwoude-gouw",
+      "name": "Zuiderwoude, Gouw",
+      "aliases": [],
+      "lat": 52.44019,
+      "lon": 5.04789,
+      "mode": "bus",
+      "lines": {
+        "bus": [
+          "111",
+          "419",
+          "610",
+          "N11"
+        ]
+      },
+      "isStation": false,
+      "extraCost": false,
+      "ticketValid": true,
+      "notes": ""
+    }
+  ]
+}

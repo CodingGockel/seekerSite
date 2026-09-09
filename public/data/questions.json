@@ -1,0 +1,618 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-09",
+  "source": "jetlag_questions_medium.json",
+  "game": "Jet Lag: Hide and Seek",
+  "size": "medium",
+  "note": "Radar- und Thermometer-Werte sind metrisch und auf das Spielgebiet zugeschnitten.",
+  "categories": [
+    {
+      "id": "matching",
+      "name": "Matching",
+      "prompt": "Is your nearest {X} the same as my nearest {X}?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "timeLimitMin": 5,
+      "cards": {
+        "draw": 3,
+        "keep": 1
+      },
+      "questions": [
+        {
+          "id": "matching:commercial-airport",
+          "label": "Commercial Airport",
+          "viz": "poi-nearest",
+          "poiCategory": "airport",
+          "weak": null
+        },
+        {
+          "id": "matching:transit-line",
+          "label": "Transit Line",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "matching:station-name-length",
+          "label": "Station Name Length",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "matching:street-or-path",
+          "label": "Street or Path",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "matching:1st-administrative-division",
+          "label": "1st Administrative Division",
+          "viz": "division",
+          "poiCategory": null,
+          "divisionLevel": "corop",
+          "divisionLabel": "COROP-Regio",
+          "weak": null
+        },
+        {
+          "id": "matching:2nd-administrative-division",
+          "label": "2nd Administrative Division",
+          "viz": "division",
+          "poiCategory": null,
+          "divisionLevel": "gemeente",
+          "divisionLabel": "Gemeente",
+          "weak": null
+        },
+        {
+          "id": "matching:3rd-administrative-division",
+          "label": "3rd Administrative Division",
+          "viz": "division",
+          "poiCategory": null,
+          "divisionLevel": "wijk",
+          "divisionLabel": "Wijk",
+          "weak": null
+        },
+        {
+          "id": "matching:4th-administrative-division",
+          "label": "4th Administrative Division",
+          "viz": "division",
+          "poiCategory": null,
+          "divisionLevel": "buurt",
+          "divisionLabel": "Buurt",
+          "weak": null
+        },
+        {
+          "id": "matching:mountain",
+          "label": "Mountain",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "matching:landmass",
+          "label": "Landmass",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "matching:park",
+          "label": "Park",
+          "viz": "poi-nearest",
+          "poiCategory": "park",
+          "weak": null
+        },
+        {
+          "id": "matching:amusement-park",
+          "label": "Amusement Park",
+          "viz": "poi-nearest",
+          "poiCategory": "theme_park",
+          "weak": null
+        },
+        {
+          "id": "matching:zoo",
+          "label": "Zoo",
+          "viz": "poi-nearest",
+          "poiCategory": "zoo",
+          "weak": null
+        },
+        {
+          "id": "matching:aquarium",
+          "label": "Aquarium",
+          "viz": "poi-nearest",
+          "poiCategory": "aquarium",
+          "weak": null
+        },
+        {
+          "id": "matching:golf-course",
+          "label": "Golf Course",
+          "viz": "poi-nearest",
+          "poiCategory": "golf_course",
+          "weak": null
+        },
+        {
+          "id": "matching:museum",
+          "label": "Museum",
+          "viz": "poi-nearest",
+          "poiCategory": "museum",
+          "weak": null
+        },
+        {
+          "id": "matching:movie-theater",
+          "label": "Movie Theater",
+          "viz": "poi-nearest",
+          "poiCategory": "cinema",
+          "weak": null
+        },
+        {
+          "id": "matching:hospital",
+          "label": "Hospital",
+          "viz": "poi-nearest",
+          "poiCategory": "hospital",
+          "weak": null
+        },
+        {
+          "id": "matching:library",
+          "label": "Library",
+          "viz": "poi-nearest",
+          "poiCategory": "library",
+          "weak": null
+        },
+        {
+          "id": "matching:foreign-consulate",
+          "label": "Foreign Consulate",
+          "viz": "poi-nearest",
+          "poiCategory": "consulate",
+          "weak": null
+        }
+      ]
+    },
+    {
+      "id": "measuring",
+      "name": "Measuring",
+      "prompt": "Compared to me, are you closer to or further from {X}?",
+      "answers": [
+        "closer",
+        "further"
+      ],
+      "timeLimitMin": 5,
+      "cards": {
+        "draw": 3,
+        "keep": 1
+      },
+      "questions": [
+        {
+          "id": "measuring:commercial-airport",
+          "label": "Commercial Airport",
+          "viz": "poi-isodistance",
+          "poiCategory": "airport",
+          "weak": null
+        },
+        {
+          "id": "measuring:high-speed-train-line",
+          "label": "High-Speed Train Line",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "measuring:rail-station",
+          "label": "Rail Station",
+          "viz": "poi-isodistance",
+          "poiCategory": "station",
+          "weak": null
+        },
+        {
+          "id": "measuring:international-border",
+          "label": "International Border",
+          "viz": "border",
+          "poiCategory": null,
+          "borderId": "international",
+          "borderLabel": "Landesgrenze",
+          "weak": null
+        },
+        {
+          "id": "measuring:1st-administrative-division-border",
+          "label": "1st Administrative Division Border",
+          "viz": "division-border",
+          "poiCategory": null,
+          "divisionLevel": "corop",
+          "divisionLabel": "COROP-Regio",
+          "weak": null
+        },
+        {
+          "id": "measuring:2nd-administrative-division-border",
+          "label": "2nd Administrative Division Border",
+          "viz": "division-border",
+          "poiCategory": null,
+          "divisionLevel": "gemeente",
+          "divisionLabel": "Gemeente",
+          "weak": null
+        },
+        {
+          "id": "measuring:sea-level",
+          "label": "Sea Level",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "measuring:body-of-water",
+          "label": "Body of Water",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "measuring:coastline",
+          "label": "Coastline",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "measuring:mountain",
+          "label": "Mountain",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "measuring:park",
+          "label": "Park",
+          "viz": "poi-isodistance",
+          "poiCategory": "park",
+          "weak": null
+        },
+        {
+          "id": "measuring:amusement-park",
+          "label": "Amusement Park",
+          "viz": "poi-isodistance",
+          "poiCategory": "theme_park",
+          "weak": null
+        },
+        {
+          "id": "measuring:zoo",
+          "label": "Zoo",
+          "viz": "poi-isodistance",
+          "poiCategory": "zoo",
+          "weak": null
+        },
+        {
+          "id": "measuring:aquarium",
+          "label": "Aquarium",
+          "viz": "poi-isodistance",
+          "poiCategory": "aquarium",
+          "weak": null
+        },
+        {
+          "id": "measuring:golf-course",
+          "label": "Golf Course",
+          "viz": "poi-isodistance",
+          "poiCategory": "golf_course",
+          "weak": null
+        },
+        {
+          "id": "measuring:museum",
+          "label": "Museum",
+          "viz": "poi-isodistance",
+          "poiCategory": "museum",
+          "weak": null
+        },
+        {
+          "id": "measuring:movie-theater",
+          "label": "Movie Theater",
+          "viz": "poi-isodistance",
+          "poiCategory": "cinema",
+          "weak": null
+        },
+        {
+          "id": "measuring:hospital",
+          "label": "Hospital",
+          "viz": "poi-isodistance",
+          "poiCategory": "hospital",
+          "weak": null
+        },
+        {
+          "id": "measuring:library",
+          "label": "Library",
+          "viz": "poi-isodistance",
+          "poiCategory": "library",
+          "weak": null
+        },
+        {
+          "id": "measuring:foreign-consulate",
+          "label": "Foreign Consulate",
+          "viz": "poi-isodistance",
+          "poiCategory": "consulate",
+          "weak": null
+        }
+      ]
+    },
+    {
+      "id": "radar",
+      "name": "Radar",
+      "prompt": "Are you within {X} of me?",
+      "answers": [
+        "yes",
+        "no"
+      ],
+      "timeLimitMin": 5,
+      "cards": {
+        "draw": 2,
+        "keep": 1
+      },
+      "questions": [
+        {
+          "id": "radar:500-m",
+          "label": "500 m",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 500,
+          "weak": null
+        },
+        {
+          "id": "radar:1-km",
+          "label": "1 km",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 1000,
+          "weak": null
+        },
+        {
+          "id": "radar:2-km",
+          "label": "2 km",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 2000,
+          "weak": null
+        },
+        {
+          "id": "radar:5-km",
+          "label": "5 km",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 5000,
+          "weak": null
+        },
+        {
+          "id": "radar:10-km",
+          "label": "10 km",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 10000,
+          "weak": null
+        },
+        {
+          "id": "radar:20-km",
+          "label": "20 km",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 20000,
+          "weak": null
+        },
+        {
+          "id": "radar:40-km",
+          "label": "40 km",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": 40000,
+          "weak": null
+        },
+        {
+          "id": "radar:frei-waehlbar",
+          "label": "Frei wählbar",
+          "viz": "radius",
+          "poiCategory": null,
+          "radiusMeters": null,
+          "weak": null
+        }
+      ]
+    },
+    {
+      "id": "thermometer",
+      "name": "Thermometer",
+      "prompt": "After traveling {X}, am I hotter or colder?",
+      "answers": [
+        "hotter",
+        "colder"
+      ],
+      "timeLimitMin": 5,
+      "cards": {
+        "draw": 2,
+        "keep": 1
+      },
+      "questions": [
+        {
+          "id": "thermometer:1-km",
+          "label": "nach 1 km Fahrt",
+          "viz": "thermometer",
+          "poiCategory": null,
+          "radiusMeters": 1000,
+          "weak": null
+        },
+        {
+          "id": "thermometer:5-km",
+          "label": "nach 5 km Fahrt",
+          "viz": "thermometer",
+          "poiCategory": null,
+          "radiusMeters": 5000,
+          "weak": null
+        },
+        {
+          "id": "thermometer:15-km",
+          "label": "nach 15 km Fahrt",
+          "viz": "thermometer",
+          "poiCategory": null,
+          "radiusMeters": 15000,
+          "weak": null
+        }
+      ]
+    },
+    {
+      "id": "photos",
+      "name": "Photos",
+      "prompt": "Send me a photo of {X}.",
+      "answers": [
+        "photo",
+        "cannot answer"
+      ],
+      "timeLimitMin": 10,
+      "cards": {
+        "draw": 1,
+        "keep": 1
+      },
+      "questions": [
+        {
+          "id": "photos:any-building-visible-from-transit-station",
+          "label": "Any Building Visible from Transit Station",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:widest-street",
+          "label": "Widest Street",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:tree",
+          "label": "Tree",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:tallest-structure-in-your-current-sightline",
+          "label": "Tallest Structure in Your Current Sightline",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:you-selfie",
+          "label": "You (Selfie)",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:the-sky",
+          "label": "The Sky",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:tallest-building-visible-from-transit-station",
+          "label": "Tallest Building Visible from Transit Station",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:trace-nearest-street-path",
+          "label": "Trace Nearest Street/Path",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:2-buildings",
+          "label": "2 Buildings",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:restaurant-interior",
+          "label": "Restaurant Interior",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:park",
+          "label": "Park",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:grocery-store-aisle",
+          "label": "Grocery Store Aisle",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:place-of-worship",
+          "label": "Place of Worship",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        },
+        {
+          "id": "photos:train-platform",
+          "label": "Train Platform",
+          "viz": "none",
+          "poiCategory": null,
+          "weak": null
+        }
+      ]
+    },
+    {
+      "id": "tentacles",
+      "name": "Tentacles",
+      "prompt": "Within {radius} of me, which {X} are you nearest to? (You must also be within {radius})",
+      "answers": [
+        "location name",
+        "out of reach"
+      ],
+      "timeLimitMin": 5,
+      "cards": {
+        "draw": 4,
+        "keep": 2
+      },
+      "questions": [
+        {
+          "id": "tentacles:museums",
+          "label": "Museums (1,6 km)",
+          "viz": "poi-within",
+          "poiCategory": "museum",
+          "radiusMeters": 1609,
+          "weak": null
+        },
+        {
+          "id": "tentacles:libraries",
+          "label": "Libraries (1,6 km)",
+          "viz": "poi-within",
+          "poiCategory": "library",
+          "radiusMeters": 1609,
+          "weak": null
+        },
+        {
+          "id": "tentacles:movie-theaters",
+          "label": "Movie Theaters (1,6 km)",
+          "viz": "poi-within",
+          "poiCategory": "cinema",
+          "radiusMeters": 1609,
+          "weak": null
+        },
+        {
+          "id": "tentacles:hospitals",
+          "label": "Hospitals (1,6 km)",
+          "viz": "poi-within",
+          "poiCategory": "hospital",
+          "radiusMeters": 1609,
+          "weak": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10328 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "description": "ARTT Hide-and-Seek Verstecke. Bahn/Metro/Faehre komplett, Bus/Tram auf 650m ausgeduennt. in_artt=0 = ausserhalb Pass (extra Kosten).",
+  "radius_m": 700,
+  "count": 469
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83783,
+     52.38896
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Sloterdijk",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "19",
+    "metro": "50, 51",
+    "rail": "Intercity, Sprinter",
+    "bus": "15, 22, 36, 61, 103, 231, 233, 272, 273, 369, 382, 395, N81, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90042,
+     52.37897
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Centraal",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "2, 4, 14, 17, 24, 26",
+    "metro": "51, 52, 53, 54",
+    "rail": "Eurocity Direct, European Sleeper, Eurostar, GoVolta, ICE, Intercity, Intercity direct, Nachttrein, Nightjet, Sprinter",
+    "bus": "18, 21, 22, 42, 43, 48, 305, 314, 316, 391, 800, N06, N07, N11, N14, N19, N23, N47, N57, N81, N82, N83, N84, N85, N87, N88, N89, N91, N93, N94, N97, Snelbus ipv trein, Stopbus ipv trein",
+    "ferry": "F2, F3, F4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81398,
+     52.43861
+    ]
+   },
+   "properties": {
+    "name": "Zaandam",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "63, 64, 65, 67, 69, 111, 394, 456, 801, N19, N94, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.74023,
+     52.63798
+    ]
+   },
+   "properties": {
+    "name": "Alkmaar",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "2, 4, 5, 6, 8, 9, 10, 123, 129, 151, 157, 160, 162, 163, 165, 166, 167, 169, 251, 260, 269, 350, 606, N50, N60, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65891,
+     52.54579
+    ]
+   },
+   "properties": {
+    "name": "Castricum",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "73, 164, 167, OVoM, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91809,
+     52.34648
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Amstel",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "12",
+    "metro": "51, 53, 54",
+    "rail": "Intercity, Sprinter",
+    "bus": "37, 40, 41, 62, 65, 245, 320, 329, N22, N85, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.10967,
+     52.08977
+    ]
+   },
+   "properties": {
+    "name": "Utrecht Centraal",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "20, 21, 22",
+    "metro": "",
+    "rail": "European Sleeper, GoVolta, ICE, Intercity, Nachttrein, Nightjet, Sprinter",
+    "bus": "1, 2, 3, 5, 6, 7, 8, 9, 12, 13, 16, 18, 19, 28, 47, 55, 65, 66, 73, 74, 77, 84, 85, 90, 102, 120, 184, 195, 307, 341, 350, 387, 388, 395, 500, N1, N2, N4, N5, N6, N7, N8, N9, N20, N41, N50, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76416,
+     52.64377
+    ]
+   },
+   "properties": {
+    "name": "Alkmaar Noord",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "4, N50, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94706,
+     52.31219
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Bijlmer ArenA",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "European Sleeper, Intercity, Nachttrein, Sprinter",
+    "bus": "44, 47, 49, 66, 120, 171, 200, 255, 271, 276, 300, 326, 330, 356, 360, 370, N26, N30, N85, N87, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87309,
+     52.33936
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Zuid",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "5, 6, 25",
+    "metro": "50, 51, 52",
+    "rail": "Eurocity Direct, Intercity, Intercity direct, Nachttrein, Sprinter",
+    "bus": "15, 62, 72, 178, 198, 221, 244, 321, 346, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76131,
+     52.30884
+    ]
+   },
+   "properties": {
+    "name": "Schiphol Airport",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Eurocity Direct, Eurostar, Intercity, Intercity direct, Nachttrein, Sprinter",
+    "bus": "3, 180, 181, 185, 186, 190, 191, 194, 195, 198, 199, 200, 218, 245, 247, 287, 300, 341, 361, 365, 369, 397, 470, N30, N70, N90, N97, Snelbus ipv trein, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.18111,
+     52.22628
+    ]
+   },
+   "properties": {
+    "name": "Hilversum",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "ICE, Intercity, Intercity direct, Sprinter",
+    "bus": "1, 2, 3, 5, 6, 9, 58, 59, 70, 104, 106, 108, 121, 320, N32, OVoM, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93641,
+     52.32341
+    ]
+   },
+   "properties": {
+    "name": "Duivendrecht",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "Intercity, Intercity direct, Sprinter",
+    "bus": "41, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89025,
+     52.33707
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam RAI",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "4",
+    "metro": "50, 51",
+    "rail": "Sprinter",
+    "bus": "62, 72, 221, 321, 464, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63826,
+     52.388
+    ]
+   },
+   "properties": {
+    "name": "Haarlem",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "2, 3, 7, 8, 14, 15, 73, 81, 84, 244, 250, 255, 300, 340, 346, 356, 385, 568, 569, N30, N80, Snelbus ipv trein, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65613,
+     52.47846
+    ]
+   },
+   "properties": {
+    "name": "Beverwijk",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "65, 71, 72, 73, 74, 75, 76, 78, 244, 572, N80, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.70223,
+     52.60005
+    ]
+   },
+   "properties": {
+    "name": "Heiloo",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "408, OVoM, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4728,
+     52.50775
+    ]
+   },
+   "properties": {
+    "name": "Lelystad Centrum",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Eurocity Direct, Intercity, Intercity direct, Nachttrein, Sprinter",
+    "bus": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 16, 143, 207, 214, 218, 650, 663, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.21768,
+     52.37522
+    ]
+   },
+   "properties": {
+    "name": "Almere Centrum",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Eurocity Direct, Intercity, Intercity direct, Nachttrein, Sprinter",
+    "bus": "150, 216, 326, M1, M2, M3, M4, M5, M6, M7, M8, N22, N23, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83423,
+     52.3576
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Lelylaan",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "1, 17, 27, 28",
+    "metro": "50, 51",
+    "rail": "Intercity, Sprinter",
+    "bus": "18, 62, 63, 195",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.69853,
+     52.2928
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "160, 161, 162, 163, 169, 300, 340, 341, 343, 397, 401, N30, N97, OVoM, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93173,
+     52.36098
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Muiderpoort",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "7, 14, 19, 25",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "37, 40, 245, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.04384,
+     52.3126
+    ]
+   },
+   "properties": {
+    "name": "Weesp",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "49, 106, 110, 522, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2781,
+     52.39391
+    ]
+   },
+   "properties": {
+    "name": "Almere Buiten",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Eurocity Direct, Intercity direct, Sprinter",
+    "bus": "22, 330, M2, M7, N22, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96675,
+     52.51162
+    ]
+   },
+   "properties": {
+    "name": "Purmerend Overwhere",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "101, 102, 276, 306, 413, N06, N07, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95452,
+     52.50367
+    ]
+   },
+   "properties": {
+    "name": "Purmerend",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "110, 416, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93575,
+     52.49626
+    ]
+   },
+   "properties": {
+    "name": "Purmerend Weidevenne",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "101, 102, 103, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81918,
+     52.45685
+    ]
+   },
+   "properties": {
+    "name": "Zaandam Kogerveld",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "64, 69, 391, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.70207,
+     52.52172
+    ]
+   },
+   "properties": {
+    "name": "Uitgeest",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "71, 163, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75613,
+     52.49522
+    ]
+   },
+   "properties": {
+    "name": "Krommenie-Assendelft",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "69, 414, 456, N94, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79335,
+     52.48924
+    ]
+   },
+   "properties": {
+    "name": "Wormerveer",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "67, 69, 414, N94, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80538,
+     52.46936
+    ]
+   },
+   "properties": {
+    "name": "Zaandijk Zaanse Schans",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "801, N94, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80597,
+     52.45761
+    ]
+   },
+   "properties": {
+    "name": "Koog aan de Zaan",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "N94, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64523,
+     52.25902
+    ]
+   },
+   "properties": {
+    "name": "Nieuw Vennep",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "22, 162, 164, OVoM",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95552,
+     52.33039
+    ]
+   },
+   "properties": {
+    "name": "Diemen Zuid",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "Sprinter",
+    "bus": "44, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.15283,
+     52.34305
+    ]
+   },
+   "properties": {
+    "name": "Almere Poort",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "24, 329, M4, N22, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.19082,
+     52.36762
+    ]
+   },
+   "properties": {
+    "name": "Almere Muziekwijk",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "M3, M4, N22, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.24487,
+     52.37668
+    ]
+   },
+   "properties": {
+    "name": "Almere Parkwijk",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "M5, M7, M8, N22, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3006,
+     52.40301
+    ]
+   },
+   "properties": {
+    "name": "Almere Oostvaarders",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "M2, M7, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9671,
+     52.34532
+    ]
+   },
+   "properties": {
+    "name": "Diemen",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "44, N87, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94885,
+     52.35254
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Science Park",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "40, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.12548,
+     52.11036
+    ]
+   },
+   "properties": {
+    "name": "Utrecht Overvecht",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "1, 6, 11, 30, Flex, N20, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.17847,
+     52.17794
+    ]
+   },
+   "properties": {
+    "name": "Hollandsche Rading",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "58, Flex",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.18749,
+     52.21641
+    ]
+   },
+   "properties": {
+    "name": "Hilversum Sportpark",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "3, 59, 70, 100, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.17381,
+     52.23786
+    ]
+   },
+   "properties": {
+    "name": "Hilversum Media Park",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "5, N32, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.16321,
+     52.26608
+    ]
+   },
+   "properties": {
+    "name": "Bussum Zuid",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "109, N32, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.15757,
+     52.28081
+    ]
+   },
+   "properties": {
+    "name": "Naarden-Bussum",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "5, 100, 107, 109, 110, N32, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95973,
+     52.29796
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam Holendrecht",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "Sprinter",
+    "bus": "41, 47, 276, 370, N85, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97654,
+     52.2793
+    ]
+   },
+   "properties": {
+    "name": "Abcoude",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "120, M, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99089,
+     52.17058
+    ]
+   },
+   "properties": {
+    "name": "Breukelen",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "111, 120, 330, 523, 524, 526, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03287,
+     52.13585
+    ]
+   },
+   "properties": {
+    "name": "Maarssen",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "5, 12, 13, 48, 73, 128, Flex, N1",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.08941,
+     52.10317
+    ]
+   },
+   "properties": {
+    "name": "Utrecht Zuilen",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "11, 12, 120, Flex",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.12249,
+     52.07826
+    ]
+   },
+   "properties": {
+    "name": "Utrecht Vaartsche Rijn",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "20, 21, 22",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "8, 9, 29, 47, 341, N4",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63279,
+     52.43368
+    ]
+   },
+   "properties": {
+    "name": "Santpoort Noord",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "481, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63119,
+     52.41946
+    ]
+   },
+   "properties": {
+    "name": "Santpoort Zuid",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "481, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6274,
+     52.40407
+    ]
+   },
+   "properties": {
+    "name": "Bloemendaal",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "481, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83445,
+     52.3573
+    ]
+   },
+   "properties": {
+    "name": "Station Lelylaan",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "1, 17, 27, 28",
+    "metro": "50, 51",
+    "rail": "Intercity, Sprinter",
+    "bus": "18, 62, 63, 195",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89122,
+     52.35939
+    ]
+   },
+   "properties": {
+    "name": "Vijzelgracht",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 7, 19, 20",
+    "metro": "52",
+    "rail": "",
+    "bus": "N82, N83, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90791,
+     52.3613
+    ]
+   },
+   "properties": {
+    "name": "Weesperplein",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 7, 19",
+    "metro": "51, 53, 54",
+    "rail": "",
+    "bus": "N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93741,
+     52.37705
+    ]
+   },
+   "properties": {
+    "name": "Azartplein",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1",
+    "metro": "",
+    "rail": "",
+    "bus": "65",
+    "ferry": "F1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90092,
+     52.379
+    ]
+   },
+   "properties": {
+    "name": "Centraal Station",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "2, 4, 14, 17, 24, 26",
+    "metro": "51, 52, 53, 54",
+    "rail": "Eurocity Direct, European Sleeper, Eurostar, GoVolta, ICE, Intercity, Intercity direct, Nachttrein, Nightjet, Sprinter",
+    "bus": "18, 21, 22, 42, 43, 48, 305, 314, 316, 391, 800, N06, N07, N11, N14, N19, N23, N47, N57, N81, N82, N83, N84, N85, N87, N88, N89, N91, N93, N94, N97, Snelbus ipv trein, Stopbus ipv trein",
+    "ferry": "F2, F3, F4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83436,
+     52.35202
+    ]
+   },
+   "properties": {
+    "name": "Heemstedestraat",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "2",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89015,
+     52.33718
+    ]
+   },
+   "properties": {
+    "name": "Station RAI",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "4",
+    "metro": "50, 51",
+    "rail": "Sprinter",
+    "bus": "62, 72, 221, 321, 464, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89188,
+     52.3407
+    ]
+   },
+   "properties": {
+    "name": "Europaplein",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "4",
+    "metro": "52",
+    "rail": "",
+    "bus": "62, 72, 245, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89233,
+     52.36957
+    ]
+   },
+   "properties": {
+    "name": "Rokin",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "4, 14",
+    "metro": "52",
+    "rail": "",
+    "bus": "N82, N83, N85, N87, N88, N89, N91, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87366,
+     52.3401
+    ]
+   },
+   "properties": {
+    "name": "Station Zuid",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "5, 6, 25",
+    "metro": "50, 51, 52",
+    "rail": "Eurocity Direct, Intercity, Intercity direct, Nachttrein, Sprinter",
+    "bus": "15, 62, 72, 178, 198, 221, 244, 321, 346, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83792,
+     52.37932
+    ]
+   },
+   "properties": {
+    "name": "Burg. De Vlugtlaan",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "7",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "21, 80, 247, N80, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8356,
+     52.37279
+    ]
+   },
+   "properties": {
+    "name": "Jan van Galenstraat",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "13",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89064,
+     52.35291
+    ]
+   },
+   "properties": {
+    "name": "De Pijp",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "12, 25",
+    "metro": "52",
+    "rail": "",
+    "bus": "N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91862,
+     52.34648
+    ]
+   },
+   "properties": {
+    "name": "Amstelstation",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "12",
+    "metro": "51, 53, 54",
+    "rail": "Intercity, Sprinter",
+    "bus": "37, 40, 41, 62, 65, 245, 320, 329, N22, N85, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90327,
+     52.36747
+    ]
+   },
+   "properties": {
+    "name": "Waterlooplein",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "14",
+    "metro": "51, 53, 54",
+    "rail": "",
+    "bus": "N85, N87, N89, N91, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83875,
+     52.38831
+    ]
+   },
+   "properties": {
+    "name": "Station Sloterdijk",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "19",
+    "metro": "50, 51",
+    "rail": "Intercity, Sprinter",
+    "bus": "15, 22, 36, 61, 103, 231, 233, 272, 273, 369, 382, 395, N81, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93261,
+     52.40204
+    ]
+   },
+   "properties": {
+    "name": "Noord",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "52",
+    "rail": "",
+    "bus": "34, 37, 39, 100, 104, 110, 111, 112, 119, 245, 305, 306, 307, 308, 314, 315, 316, N19, N91",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85746,
+     52.33832
+    ]
+   },
+   "properties": {
+    "name": "Amstelveenseweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "24",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "198, 244, 257, 346, 357, 397, N47, N57, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91103,
+     52.35565
+    ]
+   },
+   "properties": {
+    "name": "Wibautstraat",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "25",
+    "metro": "51, 53, 54",
+    "rail": "",
+    "bus": "N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91912,
+     52.3891
+    ]
+   },
+   "properties": {
+    "name": "Noorderpark",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "52",
+    "rail": "",
+    "bus": "34, 36, 38, 391, 394, N91, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89934,
+     52.395
+    ]
+   },
+   "properties": {
+    "name": "Distelweg",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "38",
+    "ferry": "F6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93633,
+     52.32326
+    ]
+   },
+   "properties": {
+    "name": "Station Duivendrecht",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "Intercity, Intercity direct, Sprinter",
+    "bus": "41, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95938,
+     52.29747
+    ]
+   },
+   "properties": {
+    "name": "Station Holendrecht",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "Sprinter",
+    "bus": "41, 47, 276, 370, N85, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9739,
+     52.29623
+    ]
+   },
+   "properties": {
+    "name": "Reigersbos",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "",
+    "bus": "47, N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98895,
+     52.29635
+    ]
+   },
+   "properties": {
+    "name": "Gein",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "",
+    "bus": "47, N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98471,
+     52.31116
+    ]
+   },
+   "properties": {
+    "name": "Gaasperplas",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "",
+    "bus": "47, 200, 271, 300, 360, N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98,
+     52.31641
+    ]
+   },
+   "properties": {
+    "name": "Kraaiennest",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "",
+    "bus": "47, 49, 66, 200, 271, 300, N85, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97344,
+     52.32315
+    ]
+   },
+   "properties": {
+    "name": "Ganzenhoef",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "",
+    "bus": "47, 66, 200, 271, 300, 360, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94737,
+     52.31164
+    ]
+   },
+   "properties": {
+    "name": "Station Bijlmer ArenA",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "European Sleeper, Intercity, Nachttrein, Sprinter",
+    "bus": "44, 47, 49, 66, 120, 171, 200, 255, 271, 276, 300, 326, 330, 356, 360, 370, N26, N30, N85, N87, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95674,
+     52.33053
+    ]
+   },
+   "properties": {
+    "name": "Station Diemen Zuid",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "Sprinter",
+    "bus": "44, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85059,
+     52.39517
+    ]
+   },
+   "properties": {
+    "name": "Isolatorweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83392,
+     52.36486
+    ]
+   },
+   "properties": {
+    "name": "Postjesweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "18, N83",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83451,
+     52.3465
+    ]
+   },
+   "properties": {
+    "name": "Henk Sneevlietweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "62",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91682,
+     52.33149
+    ]
+   },
+   "properties": {
+    "name": "Overamstel",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 51",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93045,
+     52.32952
+    ]
+   },
+   "properties": {
+    "name": "Van der Madeweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 53, 54",
+    "rail": "",
+    "bus": "N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94145,
+     52.31847
+    ]
+   },
+   "properties": {
+    "name": "Strandvliet",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9522,
+     52.30667
+    ]
+   },
+   "properties": {
+    "name": "Bullewijk",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 54",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92081,
+     52.34003
+    ]
+   },
+   "properties": {
+    "name": "Spaklerweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "51, 53, 54",
+    "rail": "",
+    "bus": "N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90133,
+     52.37193
+    ]
+   },
+   "properties": {
+    "name": "Nieuwmarkt",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "51, 53, 54",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96674,
+     52.32863
+    ]
+   },
+   "properties": {
+    "name": "Verrijn Stuartweg",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "",
+    "bus": "200, 271, 276, 300, 330, 370, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94635,
+     52.32676
+    ]
+   },
+   "properties": {
+    "name": "Venserpolder",
+    "mode": "metro",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "50, 53",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88594,
+     52.3922
+    ]
+   },
+   "properties": {
+    "name": "Pontsteiger",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F6, F7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90299,
+     52.38216
+    ]
+   },
+   "properties": {
+    "name": "Buiksloterweg",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90821,
+     52.38172
+    ]
+   },
+   "properties": {
+    "name": "IJplein",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89094,
+     52.40121
+    ]
+   },
+   "properties": {
+    "name": "NDSM-werf",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F4, F7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9497,
+     52.37433
+    ]
+   },
+   "properties": {
+    "name": "Sporenburg",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95574,
+     52.37547
+    ]
+   },
+   "properties": {
+    "name": "Zeeburgereiland",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82736,
+     52.41846
+    ]
+   },
+   "properties": {
+    "name": "Hempontplein",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82625,
+     52.42129
+    ]
+   },
+   "properties": {
+    "name": "Zaandam",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "456",
+    "ferry": "F20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.72539,
+     52.43146
+    ]
+   },
+   "properties": {
+    "name": "Spaarndam",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": "F21"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.72487,
+     52.43475
+    ]
+   },
+   "properties": {
+    "name": "Assendelft",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65, 456",
+    "ferry": "F21"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63273,
+     52.46291
+    ]
+   },
+   "properties": {
+    "name": "Velsen Zuid",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63237,
+     52.46585
+    ]
+   },
+   "properties": {
+    "name": "Velsen Noord",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93137,
+     52.38499
+    ]
+   },
+   "properties": {
+    "name": "Zamenhofstraat",
+    "mode": "ferry",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": "F1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6859,
+     52.49462
+    ]
+   },
+   "properties": {
+    "name": "Heemskerk",
+    "mode": "train",
+    "in_artt": 0,
+    "extra_kosten": 1,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63889,
+     52.44344
+    ]
+   },
+   "properties": {
+    "name": "Driehuis",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "3, N30, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.67136,
+     52.3828
+    ]
+   },
+   "properties": {
+    "name": "Haarlem Spaarnwoude",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "2, 15, 80, 680, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.74713,
+     52.3857
+    ]
+   },
+   "properties": {
+    "name": "Halfweg-Zwanenburg",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "80, 161, 680, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.53116,
+     52.37586
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort aan Zee",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.60737,
+     52.39104
+    ]
+   },
+   "properties": {
+    "name": "Overveen",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Sprinter",
+    "bus": "481",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88163,
+     52.36328
+    ]
+   },
+   "properties": {
+    "name": "Leidseplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 2, 5, 7, 13, 17, 19, 24",
+    "metro": "",
+    "rail": "",
+    "bus": "357, 397, N22, N26, N47, N57, N80, N82, N83, N84, N88, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88356,
+     52.385
+    ]
+   },
+   "properties": {
+    "name": "Haarlemmerplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "12, 13",
+    "metro": "",
+    "rail": "",
+    "bus": "18, 21, 22, N81, N82, N83, N84, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89143,
+     52.38159
+    ]
+   },
+   "properties": {
+    "name": "Buiten Brouwersstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "18, 21, 22, N81, N82, N83, N84, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95374,
+     52.42231
+    ]
+   },
+   "properties": {
+    "name": "Schouw, Splitsing",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 104, 110, 111, 112, 272, 273, 276, 305, 306, 307, 308, 314, 315, 316, 370, N06, N07, N11, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80789,
+     52.35898
+    ]
+   },
+   "properties": {
+    "name": "Osdorpplein Oost",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "17, 27",
+    "metro": "",
+    "rail": "",
+    "bus": "63, 247, 369, N83",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90558,
+     52.3466
+    ]
+   },
+   "properties": {
+    "name": "Victorieplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "4, 12",
+    "metro": "",
+    "rail": "",
+    "bus": "62, 245, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86925,
+     52.33217
+    ]
+   },
+   "properties": {
+    "name": "A.J. Ernststraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "461, 463, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8776,
+     52.36878
+    ]
+   },
+   "properties": {
+    "name": "Elandsgracht",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 7, 13, 19",
+    "metro": "",
+    "rail": "",
+    "bus": "80, 357, 397, N47, N57, N80, N84, N88, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94761,
+     52.36474
+    ]
+   },
+   "properties": {
+    "name": "Insulindeweg",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "7, 14, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 245, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8504,
+     52.3702
+    ]
+   },
+   "properties": {
+    "name": "Mercatorplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "7, 13",
+    "metro": "",
+    "rail": "",
+    "bus": "15, 18, 247, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92895,
+     52.3478
+    ]
+   },
+   "properties": {
+    "name": "Maxwellstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 40, 41, 65, 245, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.04454,
+     52.5101
+    ]
+   },
+   "properties": {
+    "name": "Edam, Busstation Edam",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 110, 112, 273, 314, 316, 614, 801, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99778,
+     52.43379
+    ]
+   },
+   "properties": {
+    "name": "Broek in Waterland, Broek in Waterland",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 111, 112, 273, 314, 315, 316, 419, N11, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63037,
+     52.37452
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Centrum/Houtplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, 80, 250, 255, 340, 346, 356, 568, 680, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79299,
+     52.32249
+    ]
+   },
+   "properties": {
+    "name": "Schiphol, Knooppunt Noord",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "180, 181, 186, 190, 191, 194, 195, 198, 199, 200, 218, 245, 247, 300, 356, 369, 397, N30, N90, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85088,
+     52.35793
+    ]
+   },
+   "properties": {
+    "name": "Surinameplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 17, 27, 28",
+    "metro": "",
+    "rail": "",
+    "bus": "15",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86893,
+     52.32479
+    ]
+   },
+   "properties": {
+    "name": "Van Boshuizenstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "463, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87728,
+     52.34904
+    ]
+   },
+   "properties": {
+    "name": "Gerrit van der Veenstr",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 24, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "N84, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87958,
+     52.35664
+    ]
+   },
+   "properties": {
+    "name": "Concertgebouw",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 12, 24",
+    "metro": "",
+    "rail": "",
+    "bus": "357, 397, N47, N57, N84, N88, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82189,
+     52.38114
+    ]
+   },
+   "properties": {
+    "name": "Plein '40 - '45",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "7",
+    "metro": "",
+    "rail": "",
+    "bus": "21, 80, 247, 369, N80, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87513,
+     52.37865
+    ]
+   },
+   "properties": {
+    "name": "Frederik Hendrikplnts",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "12",
+    "metro": "",
+    "rail": "",
+    "bus": "18, 21, N82, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94565,
+     52.51109
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Gedempte Singelgracht",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 101, 102, 103, 110, 129, 305, 413, 801, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83181,
+     52.44214
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Het Mennistenerf",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "64, 65, 69, 111, 391, 394, N94",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85647,
+     52.42943
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, De Vlinder",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "63, 65, 111, 391, 394, 395, N94",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82315,
+     52.47298
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Zaanse Schans",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69, 391, 800, 801",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2046,
+     52.26798
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Crailo P+R",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109, 221, 320, 321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.04993,
+     52.32863
+    ]
+   },
+   "properties": {
+    "name": "Muiden, Muiden P+R",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49, 110, 221, 320, 321, 329, 330, 510, N22, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.5388,
+     52.39408
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort, Circuit ingang",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.70919,
+     52.28903
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Beukenhorst",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, 340, 341, 397, N30, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85317,
+     52.36415
+    ]
+   },
+   "properties": {
+    "name": "Postjesweg",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 7, 17",
+    "metro": "",
+    "rail": "",
+    "bus": "15, 18, N83",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84984,
+     52.35122
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorpplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "2",
+    "metro": "",
+    "rail": "",
+    "bus": "15, 62, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87186,
+     52.3031
+    ]
+   },
+   "properties": {
+    "name": "Oranjebaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "171, 300, N30, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87235,
+     52.31173
+    ]
+   },
+   "properties": {
+    "name": "Zonnestein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5, 6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86621,
+     52.34633
+    ]
+   },
+   "properties": {
+    "name": "Olympiaplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "24",
+    "metro": "",
+    "rail": "",
+    "bus": "15, 62, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85455,
+     52.38065
+    ]
+   },
+   "properties": {
+    "name": "Bos en Lommerweg",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "19",
+    "metro": "",
+    "rail": "",
+    "bus": "21, 80, 247, N80, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85918,
+     52.37472
+    ]
+   },
+   "properties": {
+    "name": "Jan van Galenstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "19",
+    "metro": "",
+    "rail": "",
+    "bus": "18, 247, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94429,
+     52.39954
+    ]
+   },
+   "properties": {
+    "name": "J. Drijverweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 39, 245, N91",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95458,
+     52.39588
+    ]
+   },
+   "properties": {
+    "name": "Dijkmanshuizenstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, 37, 245, N91",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81439,
+     52.33554
+    ]
+   },
+   "properties": {
+    "name": "Anderlechtlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "198, 218, 245, 247, 369, 397, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.01852,
+     52.3557
+    ]
+   },
+   "properties": {
+    "name": "Buiteneilandlaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "26",
+    "metro": "",
+    "rail": "",
+    "bus": "49, 360, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95505,
+     52.31628
+    ]
+   },
+   "properties": {
+    "name": "Anton de Komplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "41, 47, 66, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97161,
+     52.31353
+    ]
+   },
+   "properties": {
+    "name": "Kelbergen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "41, 49, N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03433,
+     52.4888
+    ]
+   },
+   "properties": {
+    "name": "Katwoude, Hotel Volendam",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 112, 316, 610, 801, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03274,
+     52.4667
+    ]
+   },
+   "properties": {
+    "name": "Katwoude, Lagedijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 112, 314, 316, 610, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02969,
+     52.45605
+    ]
+   },
+   "properties": {
+    "name": "Monnickendam, Bernhardbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "103, 110, 111, 112, 273, 314, 315, 316, 419, 610, 614, N11, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82737,
+     52.44947
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Kopermolenstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "64, 65, 69, 391",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.24341,
+     52.29907
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Huizen Busstation",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 108, 200, 221, 320, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.145,
+     52.30592
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Gooimeer P+R",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 221, 320",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.14255,
+     52.29899
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Keverdijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02533,
+     52.33254
+    ]
+   },
+   "properties": {
+    "name": "Muiden, Maxisweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49, 221, 320, 321, 329, 330",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.00295,
+     52.33544
+    ]
+   },
+   "properties": {
+    "name": "Diemen, Diemerknoop",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "66, 221, 320, 321, 329, 330, 360",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64536,
+     52.37012
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Schipholweg/Europaweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, 73, 80, 244, 255, 346, 356, 567, 569, 680, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.54432,
+     52.40119
+    ]
+   },
+   "properties": {
+    "name": "Bloemendaal, Strand",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65438,
+     52.32478
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Spaarne Gasthuis",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "169, 300, 340, 341, 401, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.72052,
+     52.29038
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, De Hoek",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, 341, 361, 365, 397, 470, N30, N70, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75108,
+     52.30312
+    ]
+   },
+   "properties": {
+    "name": "Schiphol, Handelskade",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "1, 180, 181, 186, 190, 191, 194, 195, 199, 300, 341, 361, 365, 397, 470, N30, N70, N90, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85801,
+     52.30242
+    ]
+   },
+   "properties": {
+    "name": "Amstelveen, Amstelveen Busstation",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "149, 171, 174, 178, 186, 199, 257, 300, 356, 357, N30, N47, N57, N84, OVoM",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62873,
+     52.38163
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Raaksbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "14, 250, 255, 340, 346, 356",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77471,
+     52.35426
+    ]
+   },
+   "properties": {
+    "name": "Matterhorn",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 28",
+    "metro": "",
+    "rail": "",
+    "bus": "63, 194",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78805,
+     52.34959
+    ]
+   },
+   "properties": {
+    "name": "Ecuplein",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 28",
+    "metro": "",
+    "rail": "",
+    "bus": "N83",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86547,
+     52.36548
+    ]
+   },
+   "properties": {
+    "name": "Nicolaas Beetsstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 7, 17",
+    "metro": "",
+    "rail": "",
+    "bus": "N83",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86879,
+     52.38495
+    ]
+   },
+   "properties": {
+    "name": "Van Hallstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "5",
+    "metro": "",
+    "rail": "",
+    "bus": "21",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84691,
+     52.37644
+    ]
+   },
+   "properties": {
+    "name": "Erasmusgracht",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "7",
+    "metro": "",
+    "rail": "",
+    "bus": "15, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92096,
+     52.36306
+    ]
+   },
+   "properties": {
+    "name": "Mauritskade",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "14, 19, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 245, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80409,
+     52.38247
+    ]
+   },
+   "properties": {
+    "name": "Jacob Cabeliaustraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "21, 61, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79763,
+     52.37616
+    ]
+   },
+   "properties": {
+    "name": "Michel de Klerkhof",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "21, 61, N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88116,
+     52.4203
+    ]
+   },
+   "properties": {
+    "name": "Oostzanerdijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, 39, 103, 245",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92219,
+     52.40597
+    ]
+   },
+   "properties": {
+    "name": "Oosterlengte",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "34, 39, 111, 119, 245, N19",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92078,
+     52.35302
+    ]
+   },
+   "properties": {
+    "name": "Krugerplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 245, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99967,
+     52.35287
+    ]
+   },
+   "properties": {
+    "name": "Lumièrestraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "26",
+    "metro": "",
+    "rail": "",
+    "bus": "66, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9906,
+     52.35771
+    ]
+   },
+   "properties": {
+    "name": "Vennepluimstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "26",
+    "metro": "",
+    "rail": "",
+    "bus": "66, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93976,
+     52.34751
+    ]
+   },
+   "properties": {
+    "name": "Kruislaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "29",
+    "metro": "",
+    "rail": "",
+    "bus": "40, 320, 329, N22, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91161,
+     52.40265
+    ]
+   },
+   "properties": {
+    "name": "Barkpad",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "34, 39, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92864,
+     52.39472
+    ]
+   },
+   "properties": {
+    "name": "Rode Kruisstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, 38, N91",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89936,
+     52.4082
+    ]
+   },
+   "properties": {
+    "name": "Nageljongenstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, 39, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93953,
+     52.36803
+    ]
+   },
+   "properties": {
+    "name": "Veelaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "42, 65, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92159,
+     52.3763
+    ]
+   },
+   "properties": {
+    "name": "Kattenburg",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "26",
+    "metro": "",
+    "rail": "",
+    "bus": "42, 43, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.01423,
+     52.34867
+    ]
+   },
+   "properties": {
+    "name": "Peter Martensstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49, 66, 360",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80424,
+     52.36579
+    ]
+   },
+   "properties": {
+    "name": "Ookmeerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "61, 247, 369",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87948,
+     52.33086
+    ]
+   },
+   "properties": {
+    "name": "Gelderlandplein Oost",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "62, 461, 463, 464, N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81608,
+     52.34595
+    ]
+   },
+   "properties": {
+    "name": "Antwerpenbaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "2",
+    "metro": "",
+    "rail": "",
+    "bus": "195, 247, 369, N88",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9481,
+     52.49663
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Jan Blankenbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 103, 276, 305, 306, 308, 370, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9497,
+     52.49072
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Vurige Staart",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 276, 305, 306, 308, 370, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.949,
+     52.46469
+    ]
+   },
+   "properties": {
+    "name": "Ilpendam, Ilpendam",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 104, 272, 276, 305, 306, 307, 308, 370, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95109,
+     52.43852
+    ]
+   },
+   "properties": {
+    "name": "Watergang, Watergang",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 104, 272, 276, 305, 370, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.05255,
+     52.50604
+    ]
+   },
+   "properties": {
+    "name": "Edam, IJe",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 112, 273, 316, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.06609,
+     52.50893
+    ]
+   },
+   "properties": {
+    "name": "Edam, Tjaskermolen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 316, 614",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.07146,
+     52.50245
+    ]
+   },
+   "properties": {
+    "name": "Volendam, Mgr. C. Veermanlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 273, 316, 614",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97607,
+     52.42429
+    ]
+   },
+   "properties": {
+    "name": "Broek in Waterland, Kruisweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 111, 112, N11, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80722,
+     52.48295
+    ]
+   },
+   "properties": {
+    "name": "Wormerveer, Schildersbuurt",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67, 69, N94",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84193,
+     52.43081
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Vijfhoek",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 391, N94",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84258,
+     52.47189
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Schipbeek",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69, 391",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82698,
+     52.46672
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Borgerdiep",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69, 391",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87977,
+     52.41303
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Keerkringpark",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "391, 394, N94",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.06895,
+     52.49382
+    ]
+   },
+   "properties": {
+    "name": "Volendam, Volendam Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "316, 614, 801, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.21175,
+     52.35414
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Busstation 't Oor",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326, 329, 330, M1, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.22378,
+     52.35573
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Hortus",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326, 330, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.24396,
+     52.35402
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Kasteel",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326, 330, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.23106,
+     52.37173
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Greta Garboplantsoen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "216, M5, M7, M8, N22, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.23818,
+     52.36727
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Romy Schneiderweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "216, M5, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.24501,
+     52.36029
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Walt Disneyplantsoen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "216, 330, M5, N23",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.26828,
+     52.29282
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Aristoteleslaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 200, 320, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.27113,
+     52.28302
+    ]
+   },
+   "properties": {
+    "name": "Blaricum, Blaricum P+R",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 108, 200, 320, 326, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.24601,
+     52.25308
+    ]
+   },
+   "properties": {
+    "name": "Eemnes, Eemnes/Laren P+R (West)",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 109, 200, 320, 321, 573",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20181,
+     52.21885
+    ]
+   },
+   "properties": {
+    "name": "Hilversum, Tergooi/v. Linschotenlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 320, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.22563,
+     52.25629
+    ]
+   },
+   "properties": {
+    "name": "Laren, Brink/Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "108, 109, 321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.23577,
+     52.30293
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Baanbergenweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "221, 320, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.22722,
+     52.29728
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Karel Doormanlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "221, 320, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.1845,
+     52.27791
+    ]
+   },
+   "properties": {
+    "name": "Bussum, Huizerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "107, 321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.17268,
+     52.28741
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Bosch van Bredius",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "107, 321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.16286,
+     52.28733
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Godelindeweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "107, 321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.15128,
+     52.28967
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Koningin Wilhelminalaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "321",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.53845,
+     52.36938
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort, Kostverlorenstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "80, 81",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.53397,
+     52.3848
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort, Zandvoort Circuit",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.55817,
+     52.40141
+    ]
+   },
+   "properties": {
+    "name": "Bloemendaal, Camping Bloemendaal",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.56871,
+     52.39873
+    ]
+   },
+   "properties": {
+    "name": "Bloemendaal, De Bokkedoorns",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.59374,
+     52.39456
+    ]
+   },
+   "properties": {
+    "name": "Bloemendaal, Kennemerduinen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.61462,
+     52.38711
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Hogeschool Inholland",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "8, 81, 84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.58999,
+     52.44969
+    ]
+   },
+   "properties": {
+    "name": "IJmuiden, Dennekoplaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "74, 382, 385, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.60183,
+     52.45549
+    ]
+   },
+   "properties": {
+    "name": "IJmuiden, Zwaanstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382, 385, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.61158,
+     52.45738
+    ]
+   },
+   "properties": {
+    "name": "IJmuiden, Scheldestraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, 74, 382, 385, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77873,
+     52.3319
+    ]
+   },
+   "properties": {
+    "name": "Badhoevedorp, Badhoevedorp Oost",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "194, 195, 356, 645",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6791,
+     52.34213
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, EXPO Greater Amsterdam",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.66758,
+     52.31891
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Overbos Noord",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, 340, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.68368,
+     52.29519
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Graan voor Visch",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, 397, N30, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91094,
+     52.29953
+    ]
+   },
+   "properties": {
+    "name": "Ouderkerk a/d Amstel, Ouderkerk Oost",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "171, 300, 356, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.69205,
+     52.30167
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Hoofddorp Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "160, 161, 162, 169, 340, 341, 401",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76868,
+     52.25874
+    ]
+   },
+   "properties": {
+    "name": "Aalsmeer, Aalsmeer Busstation",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "171, 257, 340, 357, N57",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86955,
+     52.35284
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Emmastraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "357, 397, N47, N57, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80222,
+     52.3525
+    ]
+   },
+   "properties": {
+    "name": "Hoekenes",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1, 28",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79155,
+     52.35648
+    ]
+   },
+   "properties": {
+    "name": "Baden Powellweg",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "17, 27",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81229,
+     52.37635
+    ]
+   },
+   "properties": {
+    "name": "Burg. Van Leeuwenlaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "13",
+    "metro": "",
+    "rail": "",
+    "bus": "N82",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86122,
+     52.3925
+    ]
+   },
+   "properties": {
+    "name": "Spaarndammerdijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "22, N81",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.825,
+     52.3401
+    ]
+   },
+   "properties": {
+    "name": "John M. Keynesplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "18, 218",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89645,
+     52.42191
+    ]
+   },
+   "properties": {
+    "name": "Lange Vonder",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "103, 111, 245, N19, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90803,
+     52.41975
+    ]
+   },
+   "properties": {
+    "name": "Vorticellaweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 119, 245, N19, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9114,
+     52.41391
+    ]
+   },
+   "properties": {
+    "name": "Kadoelenpad",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 119, 245, N19, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95891,
+     52.38999
+    ]
+   },
+   "properties": {
+    "name": "Hilversumstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 245",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96825,
+     52.38721
+    ]
+   },
+   "properties": {
+    "name": "Volkstuin",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "37, 245",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83073,
+     52.27454
+    ]
+   },
+   "properties": {
+    "name": "Westwijk",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83253,
+     52.28237
+    ]
+   },
+   "properties": {
+    "name": "Sacharovlaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "257, 357, N57",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84542,
+     52.28323
+    ]
+   },
+   "properties": {
+    "name": "Poortwachter",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "178, N47",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8572,
+     52.28109
+    ]
+   },
+   "properties": {
+    "name": "Meent",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86366,
+     52.29011
+    ]
+   },
+   "properties": {
+    "name": "Sportlaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86753,
+     52.29626
+    ]
+   },
+   "properties": {
+    "name": "Ouderkerkerlaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "6, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "149, 174, 199, 356, OVoM",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90123,
+     52.35482
+    ]
+   },
+   "properties": {
+    "name": "Van Woustraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "4, 25",
+    "metro": "",
+    "rail": "",
+    "bus": "N84",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98059,
+     52.363
+    ]
+   },
+   "properties": {
+    "name": "Steigereiland",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "26",
+    "metro": "",
+    "rail": "",
+    "bus": "N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96837,
+     52.36941
+    ]
+   },
+   "properties": {
+    "name": "Bob Haarmslaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "26",
+    "metro": "",
+    "rail": "",
+    "bus": "N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96121,
+     52.33831
+    ]
+   },
+   "properties": {
+    "name": "Diemerbrug",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "29",
+    "metro": "",
+    "rail": "",
+    "bus": "44, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9477,
+     52.34305
+    ]
+   },
+   "properties": {
+    "name": "Brinkstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "29",
+    "metro": "",
+    "rail": "",
+    "bus": "320, 329, N22, N87",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91404,
+     52.39636
+    ]
+   },
+   "properties": {
+    "name": "Sneeuwbalstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "34, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94855,
+     52.39
+    ]
+   },
+   "properties": {
+    "name": "Purmerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, N91",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93996,
+     52.3926
+    ]
+   },
+   "properties": {
+    "name": "Wervershoofstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, N91",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.89551,
+     52.41568
+    ]
+   },
+   "properties": {
+    "name": "Appelweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "36, N93",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94076,
+     52.35892
+    ]
+   },
+   "properties": {
+    "name": "Valentijnkade",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "40, 65",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91342,
+     52.37087
+    ]
+   },
+   "properties": {
+    "name": "Kadijksplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "42, N89",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98063,
+     52.30151
+    ]
+   },
+   "properties": {
+    "name": "Veenendaalplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "47, N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97464,
+     52.3064
+    ]
+   },
+   "properties": {
+    "name": "Leerdamhof",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "47, N85",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82688,
+     52.38792
+    ]
+   },
+   "properties": {
+    "name": "Plesostraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "61, 231",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81536,
+     52.35518
+    ]
+   },
+   "properties": {
+    "name": "Piet Wiedijkstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "63, N83",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96264,
+     52.52407
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, M.L.Kingweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 101, 102, 276, 306, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95621,
+     52.51655
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Wilgenhoek",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94903,
+     52.44922
+    ]
+   },
+   "properties": {
+    "name": "Ilpendam, Jaagweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 104, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97288,
+     52.51752
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Cantekoogweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 101, 102, 413",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98553,
+     52.52046
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Nieuwe Gouw",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 101, 102, 413",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.00312,
+     52.51879
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Polderweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 101, 102",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99491,
+     52.51533
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Kelvinstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "101, 102, 110, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98693,
+     52.51089
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, De Graeffweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "101, 102, 104, 110, 272, 307, N06, N07",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98266,
+     52.50393
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Wijkcentrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "104, 110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97393,
+     52.4973
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Slotermeer",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "104, 110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96227,
+     52.49708
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Bovenlandsestraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "104, 110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.07717,
+     52.50854
+    ]
+   },
+   "properties": {
+    "name": "Volendam, Kimsterweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.05724,
+     52.49598
+    ]
+   },
+   "properties": {
+    "name": "Volendam, Dirk Visstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 112, 273, 614",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03023,
+     52.48275
+    ]
+   },
+   "properties": {
+    "name": "Katwoude, De Zedde",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110, 112, 610, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03002,
+     52.44992
+    ]
+   },
+   "properties": {
+    "name": "Monnickendam, Ringshemmen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "103, 315, 419, 614",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8217,
+     52.44238
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Botenmakersstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81102,
+     52.46338
+    ]
+   },
+   "properties": {
+    "name": "Koog a/d Zaan, Verzetstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81247,
+     52.47555
+    ]
+   },
+   "properties": {
+    "name": "Zaandijk, Willem Dreeslaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79351,
+     52.49867
+    ]
+   },
+   "properties": {
+    "name": "Wormerveer, Noorddijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8021,
+     52.49549
+    ]
+   },
+   "properties": {
+    "name": "Wormer, Zandweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67, 414",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80781,
+     52.4906
+    ]
+   },
+   "properties": {
+    "name": "Wormer, De Balk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81269,
+     52.49846
+    ]
+   },
+   "properties": {
+    "name": "Wormer, Zaandammerstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67, 414",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82636,
+     52.50043
+    ]
+   },
+   "properties": {
+    "name": "Wormer, Mariastraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84278,
+     52.5018
+    ]
+   },
+   "properties": {
+    "name": "Wormer, Oosteinde",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84854,
+     52.50782
+    ]
+   },
+   "properties": {
+    "name": "Jisp, De Lepelaar",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86637,
+     52.50652
+    ]
+   },
+   "properties": {
+    "name": "Jisp, Dorpsstraat Nr 137",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88344,
+     52.50659
+    ]
+   },
+   "properties": {
+    "name": "Jisp, Jisperdijkje Nr 6",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90321,
+     52.5099
+    ]
+   },
+   "properties": {
+    "name": "Jisp, Jisperdijkje Nr 3",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91956,
+     52.50827
+    ]
+   },
+   "properties": {
+    "name": "Neck, Neckerbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93464,
+     52.51004
+    ]
+   },
+   "properties": {
+    "name": "Purmerend, Graanmaalderij",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "67",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.81173,
+     52.43019
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Ronde Tocht",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "63, 64, 65",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80231,
+     52.42859
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Ducaatstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65, 456",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78986,
+     52.4292
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Willem Hooftkade",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65, 456",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77373,
+     52.43205
+    ]
+   },
+   "properties": {
+    "name": "Westzaan, Kleine Steng",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65, 456",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76206,
+     52.43304
+    ]
+   },
+   "properties": {
+    "name": "Westzaan, Grote Steng",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.68478,
+     52.45199
+    ]
+   },
+   "properties": {
+    "name": "Assendelft, Vuurlinie",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.66898,
+     52.46746
+    ]
+   },
+   "properties": {
+    "name": "Beverwijk, Beveland",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.67084,
+     52.47442
+    ]
+   },
+   "properties": {
+    "name": "Beverwijk, Randweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65, 72, 76",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80928,
+     52.44695
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Westerwateringtunnel",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "64, 65, 69, 394, N19, N94",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84205,
+     52.44167
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, De Weer/Twiskeweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "65",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86229,
+     52.43707
+    ]
+   },
+   "properties": {
+    "name": "Oostzaan, Ambacht",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, N19",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87505,
+     52.44012
+    ]
+   },
+   "properties": {
+    "name": "Oostzaan, De Kunstgreep",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, N19",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88151,
+     52.43252
+    ]
+   },
+   "properties": {
+    "name": "Oostzaan, Kolksloot",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, N19",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03934,
+     52.45682
+    ]
+   },
+   "properties": {
+    "name": "Monnickendam, Zuideinde",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 419, 610, N11",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.04797,
+     52.44769
+    ]
+   },
+   "properties": {
+    "name": "Monnickendam, Bereklauw",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 419, 610, N11",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.04789,
+     52.44019
+    ]
+   },
+   "properties": {
+    "name": "Zuiderwoude, Gouw",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 419, 610, N11",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.06351,
+     52.43707
+    ]
+   },
+   "properties": {
+    "name": "Zuiderwoude, Dijkeinde",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 419, 610, N11",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0784,
+     52.43628
+    ]
+   },
+   "properties": {
+    "name": "Uitdam, Aansluiting Markerdijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 610, N11",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.10577,
+     52.45695
+    ]
+   },
+   "properties": {
+    "name": "Marken, Marken Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "111, 610, N11",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78249,
+     52.49633
+    ]
+   },
+   "properties": {
+    "name": "Wormerveer, Krokusstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69, 414",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7724,
+     52.49808
+    ]
+   },
+   "properties": {
+    "name": "Krommenie, Padlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76867,
+     52.50514
+    ]
+   },
+   "properties": {
+    "name": "Krommenie, Blok",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69, 414",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75678,
+     52.5079
+    ]
+   },
+   "properties": {
+    "name": "Krommenie, Glennstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75285,
+     52.50163
+    ]
+   },
+   "properties": {
+    "name": "Krommenie, Grote Beer",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "69",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84327,
+     52.55973
+    ]
+   },
+   "properties": {
+    "name": "De Rijp, Wollandje",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 123, 305, 416, 523",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.91261,
+     52.54791
+    ]
+   },
+   "properties": {
+    "name": "Middenbeemster, De Buurt",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 129, 305, 416",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.05367,
+     52.64472
+    ]
+   },
+   "properties": {
+    "name": "Hoorn, Station",
+    "mode": "train",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 1,
+    "tram": "",
+    "metro": "",
+    "rail": "Intercity, Sprinter",
+    "bus": "14, 128, 131, 132, 133, 134, 135, 136, 139, 235, 239, 314, 412, 415, 614, N14, Stopbus ipv trein",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03979,
+     52.64112
+    ]
+   },
+   "properties": {
+    "name": "Hoorn, Astronautenweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "128, 314, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03139,
+     52.6381
+    ]
+   },
+   "properties": {
+    "name": "Hoorn, Houtzaagmolen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0212,
+     52.63762
+    ]
+   },
+   "properties": {
+    "name": "Hoorn, Verfmolen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.01692,
+     52.6298
+    ]
+   },
+   "properties": {
+    "name": "Scharwoude, Gemaal Westerkogge",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.01273,
+     52.62244
+    ]
+   },
+   "properties": {
+    "name": "Scharwoude, Ooms",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.00336,
+     52.60133
+    ]
+   },
+   "properties": {
+    "name": "Oudendijk, Oudendijk (N247)",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, 413, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.00014,
+     52.59198
+    ]
+   },
+   "properties": {
+    "name": "Beets, Beets (N247)",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, 413, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9983,
+     52.5745
+    ]
+   },
+   "properties": {
+    "name": "Oosthuizen, Oosthuizen",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, 413, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.00872,
+     52.56199
+    ]
+   },
+   "properties": {
+    "name": "Warder, Verkavelingweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.02593,
+     52.54149
+    ]
+   },
+   "properties": {
+    "name": "Middelie, Klemweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03757,
+     52.52716
+    ]
+   },
+   "properties": {
+    "name": "Middelie, Riethoorneweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "314, 614, N14",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2063,
+     52.3598
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Stedenwijk Zuid",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326, M1",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20932,
+     52.36599
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Stedenwijk Midden",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326, M1, M4",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.26449,
+     52.34218
+    ]
+   },
+   "properties": {
+    "name": "Almere Hout, De Kemphaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 216, 326",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.29399,
+     52.32884
+    ]
+   },
+   "properties": {
+    "name": "Almere Hout, Vogelweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 216, 326",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.314,
+     52.32144
+    ]
+   },
+   "properties": {
+    "name": "Almere Hout, Stichtsekant",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.32955,
+     52.31542
+    ]
+   },
+   "properties": {
+    "name": "Almere Hout, Stichtse Brug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "150, 326",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.27264,
+     52.38546
+    ]
+   },
+   "properties": {
+    "name": "Almere Buiten, Faunabuurt",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "330, M7, N22",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2533,
+     52.3836
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Tussen de Vaarten-N.",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "330, M7, M8, N22",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2605,
+     52.37599
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Tussen de Vaarten-Mi",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "330, M8, N22",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.27026,
+     52.36749
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Sallandsekant",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "330, M8, N22",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.25701,
+     52.364
+    ]
+   },
+   "properties": {
+    "name": "Almere Stad, Danswijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "330, M5, N22",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98315,
+     52.33324
+    ]
+   },
+   "properties": {
+    "name": "Diemen, Stammerkamp",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "66, 276, 330",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85315,
+     52.4398
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Dodonaeusstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "391, 394, 395, N19",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84456,
+     52.4498
+    ]
+   },
+   "properties": {
+    "name": "Zaandam, Barkstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "391, 394, 395, N19",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.25134,
+     52.3072
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Zuiderzee",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.26331,
+     52.30068
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Amstel",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2777,
+     52.29654
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Pythagoraspark",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.25829,
+     52.29093
+    ]
+   },
+   "properties": {
+    "name": "Huizen, 't Merk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, 108",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.23893,
+     52.29264
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Lindenlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.20942,
+     52.29155
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Langerhuizenweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.19744,
+     52.28904
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Flevolaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.1813,
+     52.28379
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Amersfoortsestraatweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "100, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.25083,
+     52.24793
+    ]
+   },
+   "properties": {
+    "name": "Eemnes, BEL kantoor",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109, 573",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.26302,
+     52.25244
+    ]
+   },
+   "properties": {
+    "name": "Eemnes, Braadkamp",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109, 573",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.26115,
+     52.25998
+    ]
+   },
+   "properties": {
+    "name": "Eemnes, Zomertaling",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.21884,
+     52.26236
+    ]
+   },
+   "properties": {
+    "name": "Laren, Rozenlaantje",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.18725,
+     52.27195
+    ]
+   },
+   "properties": {
+    "name": "Bussum, Goudenregenstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.17798,
+     52.26846
+    ]
+   },
+   "properties": {
+    "name": "Bussum, Dr. A. Kuyperlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "109",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.16596,
+     52.27447
+    ]
+   },
+   "properties": {
+    "name": "Bussum, Havenstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "107, 109",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.14564,
+     52.31544
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Naarderbos",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.13034,
+     52.32264
+    ]
+   },
+   "properties": {
+    "name": "Muiderberg, Muiderberg P+R",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.11862,
+     52.32363
+    ]
+   },
+   "properties": {
+    "name": "Muiderberg, Pieter de Hooghlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.10325,
+     52.31991
+    ]
+   },
+   "properties": {
+    "name": "Muiderberg, Googweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.09103,
+     52.32243
+    ]
+   },
+   "properties": {
+    "name": "Muiden, De Wegman",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.07192,
+     52.32477
+    ]
+   },
+   "properties": {
+    "name": "Muiden, Mariahoeveweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.06468,
+     52.33088
+    ]
+   },
+   "properties": {
+    "name": "Muiden, Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.15574,
+     52.29898
+    ]
+   },
+   "properties": {
+    "name": "Naarden, Staalstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "110",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.25379,
+     52.29699
+    ]
+   },
+   "properties": {
+    "name": "Huizen, Jol",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "108, 200, 320, N32",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65913,
+     52.37614
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Jac. van Looystraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "80, 567, 569, 680",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.61916,
+     52.37232
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Schouwtjesbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "80, 680",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.61054,
+     52.36288
+    ]
+   },
+   "properties": {
+    "name": "Heemstede, Leidsevaartweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "14, 80, 680",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.59711,
+     52.36107
+    ]
+   },
+   "properties": {
+    "name": "Aerdenhout, Viersprong",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.57896,
+     52.36483
+    ]
+   },
+   "properties": {
+    "name": "Aerdenhout, Spechtlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.55296,
+     52.36508
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort, Waterleiding/Nw. Unicum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.54072,
+     52.37645
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort, v. Lennepweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.55436,
+     52.37963
+    ]
+   },
+   "properties": {
+    "name": "Zandvoort, Keesomstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "81",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.648,
+     52.45975
+    ]
+   },
+   "properties": {
+    "name": "Velsen Zuid, Parkweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "74, 382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.66791,
+     52.45588
+    ]
+   },
+   "properties": {
+    "name": "Velsen Zuid, Laaglandersluisweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.68891,
+     52.44425
+    ]
+   },
+   "properties": {
+    "name": "Spaarnwoude, Zijkanaal B",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.70234,
+     52.43796
+    ]
+   },
+   "properties": {
+    "name": "Spaarnwoude, Golfbaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.71131,
+     52.43393
+    ]
+   },
+   "properties": {
+    "name": "Haarlemmerliede, Bungalowpark Buitenhuiz",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.74011,
+     52.41166
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Kaapstadweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75114,
+     52.40731
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Ruigoord Dorp",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7789,
+     52.39775
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Dortmuiden",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79436,
+     52.39775
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Westpoortweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "231, 382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80785,
+     52.39485
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Hornhaven",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "231, 382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.57323,
+     52.45577
+    ]
+   },
+   "properties": {
+    "name": "IJmuiden, Camping De Duindoorn",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.55936,
+     52.45683
+    ]
+   },
+   "properties": {
+    "name": "IJmuiden, IJmuiden aan Zee",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "382",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62739,
+     52.45627
+    ]
+   },
+   "properties": {
+    "name": "IJmuiden, Zeeweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64283,
+     52.39763
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Julianapark",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, 73, 244, 385, 568, 569, N30, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65045,
+     52.40884
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Minahassastraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, 73, 244, 385, 568, 569, N30, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64828,
+     52.42346
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Delftplein/Spaarne Gasthuis",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "2, 3, 12, 14, 73, 244, 385, 481, 568, 569, N30, N80",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64439,
+     52.43322
+    ]
+   },
+   "properties": {
+    "name": "Santpoort-Noord, Hagelingerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "385, 481, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79324,
+     52.34166
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Langsom",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "195",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7832,
+     52.33794
+    ]
+   },
+   "properties": {
+    "name": "Badhoevedorp, Havikstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "195",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7336,
+     52.2911
+    ]
+   },
+   "properties": {
+    "name": "Schiphol, P30 Parkeerterrein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "180, 181, 186, 190, 191, 194, 195, 199, N90",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.77486,
+     52.32197
+    ]
+   },
+   "properties": {
+    "name": "Schiphol, P40 Parkeerterrein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "180, 181, 186, 190, 191, 194, 195, 199, 200, N30, N90, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80747,
+     52.34135
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Sportpark Sloten",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "195",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65628,
+     52.36058
+    ]
+   },
+   "properties": {
+    "name": "Haarlem, Schalkwijk Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "3, 4, 73, 300, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.66809,
+     52.30993
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Bornholm",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.66924,
+     52.30303
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Toolenburg Noord",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "300, N30",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62495,
+     52.3623
+    ]
+   },
+   "properties": {
+    "name": "Heemstede, Heemstede Noord",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62429,
+     52.35244
+    ]
+   },
+   "properties": {
+    "name": "Heemstede, Heemstede Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "4, 340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62384,
+     52.34646
+    ]
+   },
+   "properties": {
+    "name": "Heemstede, Wipperplein",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "4, 340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.63696,
+     52.3373
+    ]
+   },
+   "properties": {
+    "name": "Cruquius, Cruquiusbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64802,
+     52.32977
+    ]
+   },
+   "properties": {
+    "name": "Cruquius, Spieringweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340, 401",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.68392,
+     52.31028
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Geniedijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.74631,
+     52.27699
+    ]
+   },
+   "properties": {
+    "name": "Schiphol-Rijk, Knooppunt Schiphol Zuid",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "180, 181, 287, 340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75412,
+     52.26954
+    ]
+   },
+   "properties": {
+    "name": "Aalsmeer, Aalsmeer West/Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76018,
+     52.26311
+    ]
+   },
+   "properties": {
+    "name": "Aalsmeer, Aalsmeer Midden",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79337,
+     52.25136
+    ]
+   },
+   "properties": {
+    "name": "Uithoorn, Poelweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80282,
+     52.24885
+    ]
+   },
+   "properties": {
+    "name": "Uithoorn, Noorddammerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "340",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.82124,
+     52.24291
+    ]
+   },
+   "properties": {
+    "name": "Uithoorn, Uithoorn Busstation",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "25",
+    "metro": "",
+    "rail": "",
+    "bus": "123, 147, 149, 174, 274, 330, 340, 526, N47, OVoM",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64325,
+     52.31375
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Floriande Midden",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "341",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64241,
+     52.3062
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Floriande Sportdorp",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "341",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65514,
+     52.30725
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Overbos Zuid",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "341",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7615,
+     52.34109
+    ]
+   },
+   "properties": {
+    "name": "Badhoevedorp, Badhoevedorp West",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "194, 356, 645",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87832,
+     52.29507
+    ]
+   },
+   "properties": {
+    "name": "Amstelveen, Langerhuize",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "356",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7887,
+     52.25846
+    ]
+   },
+   "properties": {
+    "name": "Aalsmeer, FloraHolland",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "357, N57",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80965,
+     52.27607
+    ]
+   },
+   "properties": {
+    "name": "Amstelveen, Nieuw Oosteinde",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "257, 357, N57",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85682,
+     52.31129
+    ]
+   },
+   "properties": {
+    "name": "Amstelveen, Kruiskerk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "178, 257, 357, N47, N57",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.85752,
+     52.32233
+    ]
+   },
+   "properties": {
+    "name": "Amsterdam, Kalfjeslaan",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "30",
+    "metro": "",
+    "rail": "",
+    "bus": "178, 257, 357, N47, N57",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76604,
+     52.24362
+    ]
+   },
+   "properties": {
+    "name": "Kudelstaart, Legmeerdijk",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "357",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.75675,
+     52.23894
+    ]
+   },
+   "properties": {
+    "name": "Kudelstaart, De Rietlanden",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "357",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.74537,
+     52.2334
+    ]
+   },
+   "properties": {
+    "name": "Kudelstaart, Gravin Aleidstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "357",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.73459,
+     52.22806
+    ]
+   },
+   "properties": {
+    "name": "Kudelstaart, Bilderdammerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "357",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.60669,
+     52.25988
+    ]
+   },
+   "properties": {
+    "name": "Nieuw-Vennep, Getsewoud P en R",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "397, N97, OVoM",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.61381,
+     52.26485
+    ]
+   },
+   "properties": {
+    "name": "Nieuw-Vennep, Getsewoud Zuid",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "397, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62201,
+     52.27058
+    ]
+   },
+   "properties": {
+    "name": "Nieuw-Vennep, Getsewoud Centrum",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "22, 397, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.62974,
+     52.27605
+    ]
+   },
+   "properties": {
+    "name": "Nieuw-Vennep, Getsewoud Noord",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "397, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.65732,
+     52.29538
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Toolenburg Zuid",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "397, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.67056,
+     52.29714
+    ]
+   },
+   "properties": {
+    "name": "Hoofddorp, Toolenburg Oost",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "169, 397, N97",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92796,
+     52.36919
+    ]
+   },
+   "properties": {
+    "name": "Czaar Peterstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "1",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8951,
+     52.34694
+    ]
+   },
+   "properties": {
+    "name": "Maasstraat",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "12",
+    "metro": "",
+    "rail": "",
+    "bus": "",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79008,
+     52.38172
+    ]
+   },
+   "properties": {
+    "name": "J.M. den Uylstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "21",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.87601,
+     52.39454
+    ]
+   },
+   "properties": {
+    "name": "Haparandaweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "48",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.83429,
+     52.23504
+    ]
+   },
+   "properties": {
+    "name": "Uithoorn Centrum",
+    "mode": "tram",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "25",
+    "metro": "",
+    "rail": "",
+    "bus": "123, 330, 526",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.92274,
+     52.41355
+    ]
+   },
+   "properties": {
+    "name": "Staghof",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "34",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90504,
+     52.38842
+    ]
+   },
+   "properties": {
+    "name": "Grasweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "38",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.95801,
+     52.35424
+    ]
+   },
+   "properties": {
+    "name": "Science Park Terra",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "40",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.93894,
+     52.33943
+    ]
+   },
+   "properties": {
+    "name": "Zaaiersweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "41",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.94103,
+     52.33244
+    ]
+   },
+   "properties": {
+    "name": "Plataanstraat",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "41",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97383,
+     52.35084
+    ]
+   },
+   "properties": {
+    "name": "Rietzangerweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "44",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.98591,
+     52.34697
+    ]
+   },
+   "properties": {
+    "name": "Diemen Noord",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "44",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.99255,
+     52.31459
+    ]
+   },
+   "properties": {
+    "name": "Gaasp",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.00156,
+     52.31048
+    ]
+   },
+   "properties": {
+    "name": "Reigersbroeck",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.01295,
+     52.30445
+    ]
+   },
+   "properties": {
+    "name": "Geinbrug",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.03701,
+     52.30379
+    ]
+   },
+   "properties": {
+    "name": "C.J. van Houtenlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "49, 106, 522",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78088,
+     52.3918
+    ]
+   },
+   "properties": {
+    "name": "Abberdaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "231",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.79053,
+     52.39066
+    ]
+   },
+   "properties": {
+    "name": "Jarmuiden",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "231",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78777,
+     52.36238
+    ]
+   },
+   "properties": {
+    "name": "Baden Powellweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "63",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.88318,
+     52.3249
+    ]
+   },
+   "properties": {
+    "name": "Van Heenvlietlaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "62",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.90182,
+     52.34091
+    ]
+   },
+   "properties": {
+    "name": "President Kennedylaan",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "62",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.80379,
+     52.40405
+    ]
+   },
+   "properties": {
+    "name": "Maltaweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "233",
+    "ferry": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.7972,
+     52.41603
+    ]
+   },
+   "properties": {
+    "name": "Siciliëweg",
+    "mode": "bus",
+    "in_artt": 1,
+    "extra_kosten": 0,
+    "is_station": 0,
+    "tram": "",
+    "metro": "",
+    "rail": "",
+    "bus": "233",
+    "ferry": ""
+   }
+  }
+ ]
+}

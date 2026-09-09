@@ -1,0 +1,52 @@
+name: Deploy auf GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  # Erlaubt einen Deploy von Hand über den Actions-Reiter.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  # deploy-pages holt das Artefakt ab v4 über die Actions-API — ohne diese
+  # Berechtigung schlägt der Deploy-Schritt fehl.
+  actions: read
+
+# Läuft ein Deploy noch, wird er von einem neueren Push abgelöst.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # Die Datenskripte laufen hier bewusst NICHT: sie fragen Overpass ab, was
+      # langsam und zeitweise nicht verfügbar ist. Die erzeugten JSON-Dateien
+      # liegen im Repo und werden lokal mit `npm run data` aktualisiert.
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
