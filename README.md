@@ -194,7 +194,11 @@ npm run build     # -> dist/
 npm run preview   # lokal gegenprüfen
 ```
 
-Bei GitHub Pages im Unterverzeichnis muss `base` in `vite.config.ts` gesetzt werden.
+Die Asset-Pfade sind **relativ** (`base: './'` in `vite.config.ts`), das Bündel läuft
+deshalb unter jedem Repo-Namen, in jedem Unterverzeichnis und auch im Wurzelverzeichnis —
+ohne Anpassung. Vorher stand der Repo-Name dort fest verdrahtet; jeder Fork deployte
+dadurch mit 404-Fehlern auf `index-*.js` und `index-*.css`.
+
 **HTTPS ist Pflicht**, sonst funktioniert die Ortung nicht.
 
 ## Aufbau
